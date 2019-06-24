@@ -1,6 +1,5 @@
 [
   {
-    "_id": ObjectId("5cf790d6ebb168913deb5b7d"),
     "taskid": "0x0a30c2ec2412604d7bd837425366df8170c11fd7dfb884af0eca908b252a6fad",
     "status": "3",
     "dealid": "0x213b71a41f4a312f4de07e2b7c750cde3ba0095048e3aeba12a8c22e08066043",
@@ -31,7 +30,6 @@
     "finalizeTransactionHash": "0x0f5e7f7d11d77a350989d7bfc2b8e8b8634814b92d8cc15a03f96df6d89a2c86"
   },
   {
-    "_id": ObjectId("5cf79247ebb168913deb615e"),
     "taskid": "0x77df570108f03494265b77212a868f71f85a009d8200681ad5b087f027fa85c9",
     "status": "3",
     "dealid": "0x1f2a9570e0a1c4aa30f996e3d15762dfa476e0f55c9387e2bf5e83b0493f6f53",
@@ -62,7 +60,6 @@
     "finalizeTransactionHash": "0x09a8b7e3ce0eb2cc16a260aeceb0e9015adce200b03df29ae25ee93e61cd0cd2"
   },
   {
-    "_id": ObjectId("5cf7939aebb168913deb677e"),
     "taskid": "0x57b83aa36e8c0d83711c2fae978b10bc55d7031f580e0c0da5ab07b5ad920cd0",
     "status": "2",
     "dealid": "0x78a3c607fbedb27a48a1cbd28e3f7d5b5dbed5d35fb324929e42931d4812f482",
@@ -90,7 +87,6 @@
     "consensusTransactionHash": "0x011254d4d614cb61314229ea388600acf953beb28473464e2f5ec7e203758e03"
   },
   {
-    "_id": ObjectId("5cf794ecebb168913deb6d5e"),
     "taskid": "0x32d88c6b0ac8d60e7cd817cb5c3e1370e83c106564a76f1b16989dba7b2187f8",
     "status": "3",
     "dealid": "0x58fef7cbb9add3810de54f2258b4704e2af9976acb0464589ac4feda758ff347",
@@ -121,7 +117,6 @@
     "finalizeTransactionHash": "0xca89a8d830b4d2450f57889af9d16af974e267c8f9f9f455036524ab0efa0134"
   },
   {
-    "_id": ObjectId("5cf7968debb168913deb74cc"),
     "taskid": "0xb6997bbebc08447ae69c261e514ff59c0902c2f8bc1605e963d2334f56846cf0",
     "status": "3",
     "dealid": "0x3dd4084a2ee546f85d2565491420e5df02bb696215060942412139dd6df77b72",
@@ -152,7 +147,6 @@
     "finalizeTransactionHash": "0x2da5fb2328d72da0395ee35342e343e0ffb7de8859b051182b7378c44b867b45"
   },
   {
-    "_id": ObjectId("5cf797afebb168913deb79fa"),
     "taskid": "0xa2b005bbf7b533efce2716fbc13a99091d5d08c4c14516778268cfb0eb2789b2",
     "status": "3",
     "dealid": "0x5168a6aaa977f05e034fb6f97c7c1ff5a1b7c91929d38e356d44b4b89aa7699d",
@@ -183,7 +177,6 @@
     "finalizeTransactionHash": "0xaf1d3d674d09a1c588152bbeb803893f9c0982366a339fa40740744a76f93c48"
   },
   {
-    "_id": ObjectId("5cf79925ebb168913deb7fd3"),
     "taskid": "0x9c60f9974afcc5b5be4be39dee759745b9bab987ee67f5a04e3036f2879c58f3",
     "status": "3",
     "dealid": "0xf8ae91123a14326c1b376659dd9e012b3b5503c49ce9f288ed0905fab7418563",
@@ -214,7 +207,6 @@
     "finalizeTransactionHash": "0xedd3989270362236b38cf5074c054149988d6f3e372708525a865893494ec5ae"
   },
   {
-    "_id": ObjectId("5cf79a73ebb168913deb84cb"),
     "taskid": "0x53e3e209f837901f8c5b0b5e2e168148a47bd3f2e754fc578d89059f94f4cf88",
     "status": "3",
     "dealid": "0xdb06da9875aec0c4861ee6dbfb902d0eef15798a93734a4466505a726719296a",
@@ -245,7 +237,6 @@
     "finalizeTransactionHash": "0xcb0e9adcca52ebcbcfb58e72a09579f70bc8bb7880c9a48c4893601cfabb24e9"
   },
   {
-    "_id": ObjectId("5cf79bceebb168913deb8aa0"),
     "taskid": "0xbc1d62b57e61375e0371ba5d417400bc1a5efdb6b828372c78fc080b0b187015",
     "status": "3",
     "dealid": "0x16c790140d5d372e6643b47cca30223f18185ed4eb2ebd150500e8c610d4a356",
@@ -276,7 +267,6 @@
     "finalizeTransactionHash": "0x2fd784aacd79d0bff47270607abdc80f40e3495f24e709d5f424a2ad68ee09b3"
   },
   {
-    "_id": ObjectId("5cf79d1eebb168913deb903a"),
     "taskid": "0xc2004ea559d78a5eb959014c6b062ee8705da9ab6f2cd5ca0fd9f71f27d8c7a2",
     "status": "3",
     "dealid": "0x4e699d3013072f038b76c9b7027a6500221457929d5bf90667a96ca59087caa1",
@@ -307,7 +297,6 @@
     "finalizeTransactionHash": "0xa8a16a085374682375087a19cc8f490ec60e2a538a43fe63b9ccad99e7813913"
   },
   {
-    "_id": ObjectId("5cf79ea7ebb168913deb9651"),
     "taskid": "0x48b16d2bf6afe018487a1a3d8712a32ae47bdb909768340d0e04479f1e8509fc",
     "status": "3",
     "dealid": "0x8cb23599d7481fd2883b5e92de91e8e2a2eaad54495da7de457f3c292724fb43",
@@ -338,7 +327,6 @@
     "finalizeTransactionHash": "0x832954ef0800adc65a4cc9387288a8b06c62321285b0719d3aec4f1337d832f8"
   },
   {
-    "_id": ObjectId("5cf7a01debb168913deb9c4a"),
     "taskid": "0x918fe22a06822f7a1d31395a7fc94a0cf6d79de0ef83ae9e5b4e2ee8f4b74f23",
     "status": "3",
     "dealid": "0x10eff214f8f0b6feff6cdc8081ea845b26959c9cc30960d2ebd35bdb69a9299f",
@@ -369,7 +357,6 @@
     "finalizeTransactionHash": "0xfa2723bd1de1b777f774462ec6b0483d3e2ada6e7620b41ad20e5995bc76df2f"
   },
   {
-    "_id": ObjectId("5cf7a19febb168913deba27d"),
     "taskid": "0x232f64253de4677e331603b7b1bf55827d48d971aa6fb8a4197f80a2859f959c",
     "status": "3",
     "dealid": "0x4bd8f53a0d6a69779d253df835db7ea97fc71138028d1e293e462e74fcd80963",
@@ -400,7 +387,6 @@
     "finalizeTransactionHash": "0x6435cc4793e215ffeade78c66b7d0a1006dc1ec5a83dca2ab560a895b7519eb0"
   },
   {
-    "_id": ObjectId("5cf7a30aebb168913deba829"),
     "taskid": "0x62f90680ca7a6a17c21f80cdcc19e820acdc01c920d7813c73c00c04893368cb",
     "status": "3",
     "dealid": "0xfb6ecb03efe9501a027ee6f70e6131148db3d1d8f541f4164aab94a4934fdcf1",
@@ -431,7 +417,6 @@
     "finalizeTransactionHash": "0x4136152b9dab57223a990c67e8ea915d477f5168564ece096c0a0cd9cd89a343"
   },
   {
-    "_id": ObjectId("5cf7a48febb168913debae7a"),
     "taskid": "0xdb5b8bc058d5d986e4ed3fcb674e7046696cc59c999581b089aa37bfeb67d7d0",
     "status": "3",
     "dealid": "0xe31eab1b190c41dfe9d4fad92c212df8568e7fddf03378eea4c486eaafd4e6bb",
@@ -462,7 +447,6 @@
     "finalizeTransactionHash": "0x25eb8887780c48901819be131f2c227e5a7e927469976e6cae8df400b2a7382b"
   },
   {
-    "_id": ObjectId("5cf7a602ebb168913debb496"),
     "taskid": "0xb7fe20d5ba4f98af2736b635d68da97b5481f2ac81637138e501c1f2381de2a7",
     "status": "3",
     "dealid": "0x79cc1e8309d1a3245cdbe157a01b5a33f562ee33301e93b1b72651aa6a3baad8",
@@ -493,7 +477,6 @@
     "finalizeTransactionHash": "0x1f71727a869ae9b027e311360ef27df5804cc159a2a3015c863b29f90e2c0541"
   },
   {
-    "_id": ObjectId("5cf7a7c3ebb168913debbc04"),
     "taskid": "0x7d24cfef4ac10d1d10ff28a48f8a2272ca6e3d502e12674da49fcb27d23d5682",
     "status": "3",
     "dealid": "0x3d7bbb0b614e4f438fc3ab0faa0044bfa3d879d7c92d070bac60c8c670da3106",
@@ -524,7 +507,6 @@
     "finalizeTransactionHash": "0x813d6d4add271b3e23ebdc01309ced7015d059ba191b1c5a1a24b2bb77120c7e"
   },
   {
-    "_id": ObjectId("5cf7a8d9ebb168913debc091"),
     "taskid": "0x75d4e6c164fdc03c2348c7a21266b62867dc769e8ba4936e7b8aae950f4f7f7a",
     "status": "3",
     "dealid": "0x013a5e297c37f697d3b264ac27b010faa53c6ebe5b6eff42145ca72d6be04862",
@@ -555,7 +537,6 @@
     "finalizeTransactionHash": "0x7bd969ddac918ed1658763c31d67b5491ff3649aab49444e81c42ddb4a388978"
   },
   {
-    "_id": ObjectId("5cf7aa4bebb168913debc6c5"),
     "taskid": "0x5afd5365d5f711ee3bc008a6c22b762467d89a6bf43d6a28bbb114c5e6ea1154",
     "status": "3",
     "dealid": "0xe7f6b56657d0876f52e14989e95a3e5c1cf84b7bad9d034f3b703cfbfa53686d",
@@ -586,7 +567,6 @@
     "finalizeTransactionHash": "0xc821fbf1e1d444ac7b9627437c193d693009d56acd2a80cf0efd7b51957c776f"
   },
   {
-    "_id": ObjectId("5cf7ab97ebb168913debcbba"),
     "taskid": "0x66cd52802b225f1b2bee11367f1435a1d1cab0b9aaf376b984b377b094c1ba10",
     "status": "3",
     "dealid": "0xd7b4d8237471801d4eba761b7f4cac84f6c26de3affcab52aa60d648c89fb88a",
@@ -617,7 +597,6 @@
     "finalizeTransactionHash": "0x2e86c15dac2c710eeea600010f2859f9d022cb6656df7b8ecff5935901791696"
   },
   {
-    "_id": ObjectId("5cf7ad10ebb168913debd176"),
     "taskid": "0x96dbe767b105680bd32c06df2c4d772da017846c733487f6e2d01134406f4b9a",
     "status": "3",
     "dealid": "0x5ff1561c0475673ec256cf031055a4163c7a2e78001afe7aa04b3707662ff978",
@@ -648,7 +627,6 @@
     "finalizeTransactionHash": "0x22f6228991e2df3d63a69e7e9dd81751381ae42f18a6a856c2ba08eb5d8ba0ea"
   },
   {
-    "_id": ObjectId("5cf7ae63ebb168913debd69e"),
     "taskid": "0x08d3ab972c6117dda0a89e7ab29c4536ff60042b9317e9a545dd5892e546daed",
     "status": "3",
     "dealid": "0x38a3cde7160e8610a7fb70d3cb60b9b8b7e6b1d287cb2153814573529180e165",
@@ -679,7 +657,6 @@
     "finalizeTransactionHash": "0x8c55f2f60a30c7ddf8d3fb3b9179c65c5ad8541b9af953992834cd50067f8d3b"
   },
   {
-    "_id": ObjectId("5cf7afcaebb168913debdc15"),
     "taskid": "0xa874169c7e9ff9192caaf5c90669b0df2a446d655a88cab07b3226d52ddd9e46",
     "status": "3",
     "dealid": "0x9cb51c9149c5a168690a48e4f6c3af62cf637c54db1a0a448408113e91c96aeb",
@@ -710,7 +687,6 @@
     "finalizeTransactionHash": "0x0734b0629081cb52a668b5b4a303be4ea4a62b4fd5b6e951b790684b85185a11"
   },
   {
-    "_id": ObjectId("5cf7b140ebb168913debe248"),
     "taskid": "0xda42da9a892ad3464931b5c26ce69505e695860582e3e87ff341cb8f69674965",
     "status": "3",
     "dealid": "0x23bdcb4e408f447bf2d587d76699be04ec52b5c3220b35b6e2a91d51e156a4c3",
@@ -741,7 +717,6 @@
     "finalizeTransactionHash": "0x147823b9ea46a63eb32c0124e7124436682aab75ac9f218059b43da4d542e2e0"
   },
   {
-    "_id": ObjectId("5cf7b28cebb168913debe7b5"),
     "taskid": "0xfe5652a4c173bd31add08640858b1f2970eb729d9af39f0de8f9f55850b575c9",
     "status": "3",
     "dealid": "0x5282354a1f519337ea8c08aa48ed11582fb1ef62ceb587f33c7dc73846f9a4cb",
@@ -772,7 +747,6 @@
     "finalizeTransactionHash": "0x7e42e41bfb7bea47e1d8c0f119fd1821bf89e8f49b39f433f21c28e8aa077bbb"
   },
   {
-    "_id": ObjectId("5cf7b43cebb168913debee9d"),
     "taskid": "0x4de47346feff192cd7d95ac64d85da0aee46f2fe4539d14c7ff240056ee14981",
     "status": "3",
     "dealid": "0xc9d38267bc147e87e04993a8e7fc99bdb33ec9b2110ed760d5a1beced240603a",
@@ -803,7 +777,6 @@
     "finalizeTransactionHash": "0xa7e682023cc70f8ac77b389a15176a4302a33759736a2df4cd2b14e4f76b4a74"
   },
   {
-    "_id": ObjectId("5cf7b595ebb168913debf3a6"),
     "taskid": "0x42d94862e2c90e73b029fd236f34620e42bb51c06d11b6450ef0bdb8a4bea0bb",
     "status": "3",
     "dealid": "0x749b17844c99be5b57cd44f0089d2139e5f9656ad9584b7beea50c42491c1eb6",
@@ -834,7 +807,6 @@
     "finalizeTransactionHash": "0xaa887a0afabcf2bce336081b94d17b37cdaa9a40a025f63cc720a2cc5ac18f4a"
   },
   {
-    "_id": ObjectId("5cf7b6edebb168913debf8d1"),
     "taskid": "0x78025250d30b9231fd3d068c4e04daf0c464d2c6098998a3c5f442ffa2b6d351",
     "status": "3",
     "dealid": "0xd547894067c2dae3103d81c2cd75a7a60ea27581809c6d35a88b8bea82d02a3e",
@@ -865,7 +837,6 @@
     "finalizeTransactionHash": "0xdbe06ebee43da737e437ac75f4a61bbde790d94fb1b416556c55d9cb6215ba0b"
   },
   {
-    "_id": ObjectId("5cf7b883ebb168913debff26"),
     "taskid": "0xe81d895b5aac9bfb169663ca1e38411ce2ddd1ff8fdcbc6ae17d85b4be6fdb07",
     "status": "3",
     "dealid": "0x63f8aeefe7210c5aef05c15b37a86603f98d03a7ee17780f48aca01d5cdf611c",
@@ -896,7 +867,6 @@
     "finalizeTransactionHash": "0x01ae6dcce3e28c227c3d075168268b54b05b34b3ee8f8881f58b953795fad2a0"
   },
   {
-    "_id": ObjectId("5cf7b9e3ebb168913dec04b4"),
     "taskid": "0x072af2de3282da1c539c9bc06f8d4c3cc4ff7801d7854c74f191f5cd775b362c",
     "status": "3",
     "dealid": "0x587fc0d75e2c2e8450fb7d16027f478decc001a671f2241e0848d48649c1f48f",
@@ -927,7 +897,6 @@
     "finalizeTransactionHash": "0xa531e053a6edb7e19c58c480df14593855430520c643bf1ac9394ee5278db6ee"
   },
   {
-    "_id": ObjectId("5cf7bb51ebb168913dec0a8d"),
     "taskid": "0xcbd48363e32c0e93361a7764077dad0887105d8dd0c010574f601c11b6413fe3",
     "status": "3",
     "dealid": "0x0bf4e01deed63a75a0893e51bd76278732f2de32e812855796eb3272fe4879f5",
@@ -958,7 +927,6 @@
     "finalizeTransactionHash": "0x2d86837681adb423ab7a6f3d393113bd5ed7a27c4877e2bdda64e73449bcf201"
   },
   {
-    "_id": ObjectId("5cf7bcbdebb168913dec106a"),
     "taskid": "0xcf28c3f3137f1584193f7fddf6cbe442fe9481b363d75ae60abb6aec31a8a57c",
     "status": "3",
     "dealid": "0xdd264455b03d6b32a653a7f4c3f9ac13bd5f9ca733269e7b78d10136fa214d27",
@@ -989,7 +957,6 @@
     "finalizeTransactionHash": "0x0caf7fe1aef151e0a73c4c5588d7a6aff0592fa7a5ea3ff0db6b1fc1c760ee6d"
   },
   {
-    "_id": ObjectId("5cf7be05ebb168913dec1568"),
     "taskid": "0x5bc247982a4ab3685355545a4660dfc4fb81a2647e2f18d90dfb8f1c095b4b19",
     "status": "3",
     "dealid": "0x7eb4216d2feb1ccf20a7f5e8555bf56282f2225ad59b9877d9b13970593463f4",
@@ -1020,7 +987,6 @@
     "finalizeTransactionHash": "0xecedacb6e22cf79684bfd046abe5186b54be45b81c42a4d9eb9ffeb4584d8035"
   },
   {
-    "_id": ObjectId("5cf7bf92ebb168913dec1b81"),
     "taskid": "0x0b3c1b067313cb84a4c50fb8dc15f57407ef701c5553122ba16aa2060544381f",
     "status": "3",
     "dealid": "0xa6c4ece18fdd0dfc3cb2571f4e6a951a485daa0885cac39a339c5d5fea9934f3",
@@ -1051,7 +1017,6 @@
     "finalizeTransactionHash": "0x512d90537af31734e559b633ba2dd43b4db2d289c8dfcb78255fc2f3fad4e256"
   },
   {
-    "_id": ObjectId("5cf7c0e8ebb168913dec20ee"),
     "taskid": "0x8f66a43a88ccf612cde7351b774a29f237b4d2e1f297eafa905878aa16695506",
     "status": "3",
     "dealid": "0x1fe187b5c51612b3a72ca728f6d9e2ca443fbd74fae41f0ec9e1a91957bf60a5",
@@ -1082,7 +1047,6 @@
     "finalizeTransactionHash": "0xadd8578725830e83982d9fc0b51f2809822e4793c7163f18b7f138b185d5e443"
   },
   {
-    "_id": ObjectId("5cf7c233ebb168913dec25de"),
     "taskid": "0xf77735d7b333e3a7ecb30685e445d7fea03354b26c1ae089aba21ea18a4ca51b",
     "status": "3",
     "dealid": "0x8bb02e64ee9822e0e016d617cb33d661e5b5a8276e7992be72b2d41ffbef56b7",
@@ -1113,7 +1077,6 @@
     "finalizeTransactionHash": "0x6060ba29c2e3a9b705bb6dc0d0bf5840368f780be4efdf4bb608dd025e1c26f7"
   },
   {
-    "_id": ObjectId("5cf7c3eeebb168913dec2c39"),
     "taskid": "0x0ed2aa5e068090acab0c810c2480eecb905c14543530dcd9f7d356fe52fbae59",
     "status": "3",
     "dealid": "0xb81ed2ea2958557933f01b7f05d47664710238563bb2f32fc0b11266ea72f287",
@@ -1144,7 +1107,6 @@
     "finalizeTransactionHash": "0x4ecac5020097ad6a454f3b0a52b4f87ec1e5c24176a89c879de5fd1db4bc13fe"
   },
   {
-    "_id": ObjectId("5cf7c532ebb168913dec312e"),
     "taskid": "0x185b4a58aa90c47762b937bcb341bdaf005b2173eb779256459191f8fbd4a1c8",
     "status": "3",
     "dealid": "0x37891339eabf8687b02b437c0aed21edbe7e1c0067f14b3428d5ffb3f3595503",
@@ -1175,7 +1137,6 @@
     "finalizeTransactionHash": "0x85ce7de3f21d185f356adb1ee30c71e842dac2cf6b9f1c4c14382013d735087b"
   },
   {
-    "_id": ObjectId("5cf7c6a8ebb168913dec36f5"),
     "taskid": "0x0728819cea7ac829753ba6f2894356f0edc68a983a25fda1a4b4533c93c25171",
     "status": "3",
     "dealid": "0x6585ef99062a2f4227aa010906c39daef7a8613d85cfe5ac374f2fc698b96665",
@@ -1206,7 +1167,6 @@
     "finalizeTransactionHash": "0x302e78b584dccba6fc5f785d5eadd392b53d9b9600738ab7e9351115445e3ba7"
   },
   {
-    "_id": ObjectId("5cf7c7f5ebb168913dec3c30"),
     "taskid": "0xba1197e946a1ef3678f6757d740be063aacc86c0a095f28da520990687c48731",
     "status": "3",
     "dealid": "0xef60dcdee22f43fc6cec7190edee10e2da6a2e8480e23091d0ea2ffc0f48235a",
@@ -1237,7 +1197,6 @@
     "finalizeTransactionHash": "0x8c1b33b2f7518af571b74627d505588c249ee463cec728cfad94333f725f93e9"
   },
   {
-    "_id": ObjectId("5cf7c987ebb168913dec424d"),
     "taskid": "0x23e1e9b7486e510999fb1185f92c535ff73cd5801efc13907bb717a0d633ea26",
     "status": "3",
     "dealid": "0x1f681b325c1fc43dc538260d963dceb565906160859a8745c32574815031d3fc",
@@ -1268,7 +1227,6 @@
     "finalizeTransactionHash": "0xb16fe99f116ca74464453e9e49ce18244bb622813c0188ca59a4b41fa07ec798"
   },
   {
-    "_id": ObjectId("5cf7caeeebb168913dec4820"),
     "taskid": "0xcc03dc54da9df4d9fbb1aaefac92ff084d7f7ccdf4774a29c2f271f647cf99fa",
     "status": "3",
     "dealid": "0xc5737882cd3cfc84b320162b036270de65ff32a9fcbae7c06a8313726c085bf1",
@@ -1299,7 +1257,6 @@
     "finalizeTransactionHash": "0x20bcb6d8ef005be188324771aaebff6a92a94c16b9aaf037bc228e423ad3288e"
   },
   {
-    "_id": ObjectId("5cf7cc49ebb168913dec4d55"),
     "taskid": "0xab3534464427de3b306aad5477d62606360e64d6f58973a1e74cd4acc249b2c4",
     "status": "3",
     "dealid": "0xf3f11815adfed215d7b5e2ad1905260a9ae2895a8c86f8964627cea6cefcb5ab",
@@ -1330,7 +1287,6 @@
     "finalizeTransactionHash": "0x1b20a339923107c3d7d8d14bfa9999840077ee3e28c8f0a9041fefdc451e802d"
   },
   {
-    "_id": ObjectId("5cf7ce23ebb168913dec5469"),
     "taskid": "0xb29544a9517f60e976f37837f7cbf1798112faf7896c822ce7a94d518c56c6a4",
     "status": "3",
     "dealid": "0x8301f0d01cc6a6ff3969fff84065e86669225859e242b3c9fd165849743a4a4c",
@@ -1361,7 +1317,6 @@
     "finalizeTransactionHash": "0x9f2415a07d22cc28b547d4b0d52b5f2b2cfd5c0aabea3bd75644b73d3395ec9a"
   },
   {
-    "_id": ObjectId("5cf7cf04ebb168913dec57ae"),
     "taskid": "0x2193e07615ff784645ca38dfcd796142c961f8c4b2914cc374a697eb2842d507",
     "status": "3",
     "dealid": "0x392d75982bef8bf366ca3f9856f4994c6042836a15087d5ae0113526df8d2106",
@@ -1392,7 +1347,6 @@
     "finalizeTransactionHash": "0x8395daa4e6175fded7c630f12561d324b5f921790746f5f0a4b7ce0cd07ced5d"
   },
   {
-    "_id": ObjectId("5cf7d0aeebb168913dec5e5a"),
     "taskid": "0x655d8f4a8c6df9fe2e5718837bb1a2cde9ad5e644244770fb72d985885ae4a7e",
     "status": "3",
     "dealid": "0x639d480efa9a2b8577af222d500c9ded7812b46d33006900a03b00ac19abd870",
@@ -1423,7 +1377,6 @@
     "finalizeTransactionHash": "0x8f0f2b39be20d28f96479b185f11b4e68cafbb49308bf8d0f2b3878ec34baab6"
   },
   {
-    "_id": ObjectId("5cf7d208ebb168913dec63a2"),
     "taskid": "0xd217f71a085f388a908862931ce8dc0462fe40318b0c562517a69e27feb23f7d",
     "status": "3",
     "dealid": "0xaa84a47b6fdc39e0c59518028df756996a083e7618ebc10c674889c98541d06d",
@@ -1454,7 +1407,6 @@
     "finalizeTransactionHash": "0x136d9437fbbd0e911092df6a90e9605daf39c6f7a7f95987d6e22e6581a455b0"
   },
   {
-    "_id": ObjectId("5cf7d519ebb168913dec6f75"),
     "taskid": "0xcfdf1462f9e6c39096fd66029b00d36b182e132ea4c609f5d83b021a0fe8315f",
     "status": "3",
     "dealid": "0x98b3e4cf4172ce44375f6815e65fc28a44d75239235667994cfdedc5389dc695",
@@ -1485,7 +1437,6 @@
     "finalizeTransactionHash": "0x4a95d75c6324fc5e763a484aaadb784060b6e4a1cafaebdb952862d53c93c934"
   },
   {
-    "_id": ObjectId("5cf7d6dfebb168913dec7638"),
     "taskid": "0xe74601c47afa7654224322155b1fa42f4c012801867ee98668a5499df09261a4",
     "status": "3",
     "dealid": "0xb7e2a04c550cfa268f5b05a99ea12504920ac9191ea2d70e3135f1a1651ad590",
@@ -1516,7 +1467,6 @@
     "finalizeTransactionHash": "0x3c3316eee0689abf9f644b44acabe681f2817d338b19638fddf3cfe20e936c88"
   },
   {
-    "_id": ObjectId("5cf7d870ebb168913dec7c4e"),
     "taskid": "0x1c3fd83c48bffecb27946695fb1c97fe274446d159baa72fca27eb88566a78f3",
     "status": "3",
     "dealid": "0x453c54a5a1efbb62fb881467d78f22cb592790e892a3404fecc9e756b76b9126",
@@ -1547,7 +1497,6 @@
     "finalizeTransactionHash": "0xb1d9046c2bd19ee0387ad5addc8b267acb6b589f3e3ce0efcf58675907af638c"
   },
   {
-    "_id": ObjectId("5cf7da0febb168913dec8296"),
     "taskid": "0xe3c638b101a468d1769c64a0f1d465a300da1ae557fd396018929b355f102e7c",
     "status": "3",
     "dealid": "0x43acc0511b735f53e982b82950130cee4577ce3a7febabfbed8d604047590e1e",
@@ -1578,7 +1527,6 @@
     "finalizeTransactionHash": "0x50f78707109261a2ae1ce55381b36a0a2fb7f5157eda25b9d140ad24b624ec47"
   },
   {
-    "_id": ObjectId("5cf7db2eebb168913dec8713"),
     "taskid": "0x4a57893a048501075b56892132a959e8b2c68f9a1486e6afd7a2f8275f8f045d",
     "status": "3",
     "dealid": "0x09029e903c6d535f39a7d7090b97b6ee1614d13adc325ed8c24d08b63cc4eda7",
@@ -1609,7 +1557,6 @@
     "finalizeTransactionHash": "0x8691df124baf24ec67655e918642f1b62a217e92b51a58ade64b8c35cfe1b557"
   },
   {
-    "_id": ObjectId("5cf7dcc1ebb168913dec8d93"),
     "taskid": "0x2caac0f7a885c7586f342a675dec6b4cb9ff6434bb91bea0cd1a3d1a807a127e",
     "status": "3",
     "dealid": "0x3d2e3710b3b4925b81215a4e7765f3c33c8f96e6c60253a708cb563a4503693b",
@@ -1640,7 +1587,6 @@
     "finalizeTransactionHash": "0x002597318c6490d4bca26d1298249111ebc51ba5d5904aabf1d9752905af0a43"
   },
   {
-    "_id": ObjectId("5cf7de55ebb168913dec9404"),
     "taskid": "0x18e84291c1eacfc4f2d638541ed09783042ae17d5b9700fc1a25db8a6452c64d",
     "status": "3",
     "dealid": "0x2e3375e44fba4da5ba04c81dab6734a7eec7188fd85bf505bf8d43631d3010ad",
@@ -1671,7 +1617,6 @@
     "finalizeTransactionHash": "0xa61ffd954c65e78916ee5dbf584942b57f28296e6e2951c852b3ebb9de77363e"
   },
   {
-    "_id": ObjectId("5cf7df80ebb168913dec98c1"),
     "taskid": "0x33d65de93115c0325aecef2c67dffb60ea5aabdacbaf058bb6b7bf07621f6d8a",
     "status": "3",
     "dealid": "0x0441397e57d268f96ec5d8e4df57230564e31e916827c957469cbd95c99fefb7",
@@ -1702,7 +1647,6 @@
     "finalizeTransactionHash": "0x69876acb8bfecb846723ae0d536db443e702f8e491e931b5831c175a1c90c58c"
   },
   {
-    "_id": ObjectId("5cf7e0e3ebb168913dec9e02"),
     "taskid": "0x6199c837746689f9f6ca3b2bdd44dbb49a124d7d89f3092c5db212bcf758ea5d",
     "status": "3",
     "dealid": "0x72708082532c91f1de0bedeae5d1656224b617a9a1319faa6444927b40323770",
@@ -1733,7 +1677,6 @@
     "finalizeTransactionHash": "0xb8cbbff44df973c7e948caf2e68aab5301a9a4457baf2f1f47349afea896b7bb"
   },
   {
-    "_id": ObjectId("5cf7e253ebb168913deca47a"),
     "taskid": "0x584a2626460bbf7241246f75117316e8ad2d19ad33f82162af7805686d2a8984",
     "status": "3",
     "dealid": "0xe9f5f0d90b3658a095edd955432607409860bee21ba8ebff193a120b21d0ac59",
@@ -1764,7 +1707,6 @@
     "finalizeTransactionHash": "0xf72a355b46a74e3609917c737797771896a9adb163700974cd20d0c32b9b7c6e"
   },
   {
-    "_id": ObjectId("5cf7e396ebb168913deca9b9"),
     "taskid": "0x80d2b573412133671caef50d5fe75c7b08b7b813098cdea887d20906616a1f54",
     "status": "3",
     "dealid": "0x633cf128771ced2258382c7b617093a5e699960875b195f53c7e96be690c4f3a",
@@ -1795,7 +1737,6 @@
     "finalizeTransactionHash": "0x02516816e6e7e9cb45813b43827e07950e0b9036204acf88dc81508e0e9ee43d"
   },
   {
-    "_id": ObjectId("5cf7e513ebb168913decafa3"),
     "taskid": "0x6aa2b4d83f86f5aa2be15b7b5ed95596e9cd7245fc94c724912c9e4b191962ff",
     "status": "3",
     "dealid": "0xc4804282ace06806cf3c02bda3cfb96fd1db2f6aa1fd759fdc7767889b080480",
@@ -1826,7 +1767,6 @@
     "finalizeTransactionHash": "0x4664eb9bff7e5fc7e6d8d93f465cc32c0ebae34649c81ada70e116246f8b70bc"
   },
   {
-    "_id": ObjectId("5cf7e68debb168913decb59b"),
     "taskid": "0x3b80af561b5f99aa1a7952df41b6020229e682fd29bf9c38269834970f2a03da",
     "status": "3",
     "dealid": "0x48cf1a9bb09bd20bb6fc3a7c3eb00ee3ba65c747fa9a6a73d8b1b25a40214d81",
@@ -1857,7 +1797,6 @@
     "finalizeTransactionHash": "0x2272f57855f6aad4b5a6f5fcef7c246029ccb0dbf4744374b5afada2b1a01bb0"
   },
   {
-    "_id": ObjectId("5cf7e7ffebb168913decbae9"),
     "taskid": "0x07bb65568f125e19373586657e49ac858b6698fd1f3c7834794bbae2d22ac662",
     "status": "3",
     "dealid": "0x5031310bb74fae1ea38f278686f8aa337665c6e4610bcdb11ff0045804e7dcee",
@@ -1888,7 +1827,6 @@
     "finalizeTransactionHash": "0x3c019576aebabcc25bf80bd32853ffe6b065b5286022cdf5c06f1491086cef04"
   },
   {
-    "_id": ObjectId("5cf7e960ebb168913decc026"),
     "taskid": "0x09c21d79aa71a72cdf6f30f6887145215793fa25484e80a2dec8f67372c6da54",
     "status": "3",
     "dealid": "0xada9c1783e1ff796509a1dcf48c6fbbb1f324635769a6780a92d4ba1cf8f260f",
@@ -1919,7 +1857,6 @@
     "finalizeTransactionHash": "0xb6bcb1b05337fe3fe1355e5a8259287d08544f8fe40921d61bf4a7111f52a57e"
   },
   {
-    "_id": ObjectId("5cf7ead3ebb168913decc5c5"),
     "taskid": "0x579c1a727f6178cbb69c849975ccba4d12914879e84fb75728e089e3b18cb281",
     "status": "3",
     "dealid": "0x20231e8939f45afdc8cbf956dd2f37227185e15abffb6d50be9bee34f8c98a79",
@@ -1950,7 +1887,6 @@
     "finalizeTransactionHash": "0x9b91a230f14dbb5d778a42ab2cee85312fd43795b3cce289fb77cec272ec341c"
   },
   {
-    "_id": ObjectId("5cf7ec3eebb168913deccb7e"),
     "taskid": "0xa704a55922cd93781770873d23480481be3de9b20bf9c568033756248b2a7c6f",
     "status": "3",
     "dealid": "0xc3e1e713d65ac1e6121479dbf26ee14ecf12d290fbf81fa0862821761d2fa071",
@@ -1981,7 +1917,6 @@
     "finalizeTransactionHash": "0xf05d941d42bb8cffe208a8c30d6d6f27738af7f8d1836ede3c178eddb304f7a7"
   },
   {
-    "_id": ObjectId("5cf7edb4ebb168913decd0fd"),
     "taskid": "0x0d27839d04e3bb1e408c8794e9b5464c44a66de9adebf514b85b41c112bff12a",
     "status": "3",
     "dealid": "0x0caf6be1eb86a0272771102d092a9615b6bd3d2222041a455cb72384217b7bf3",
@@ -2012,7 +1947,6 @@
     "finalizeTransactionHash": "0x32601bb3c5978fceb536a49711cbc57739617eba943062825fcc26ed144827f2"
   },
   {
-    "_id": ObjectId("5cf7eef1ebb168913decd5c4"),
     "taskid": "0xcca7d68e37a459b269fa1712c18a161fe61bce9308a43b1761aeb80f9d96b3d3",
     "status": "3",
     "dealid": "0x9508fe67b020f46fbc4ae8209bd37797fae92425bdae43e54b943e2e6864df19",
@@ -2043,7 +1977,6 @@
     "finalizeTransactionHash": "0xd11cb1411e4ec8e93f2b6052b4e8c1fd4687710d5e3100093128d40c90867e50"
   },
   {
-    "_id": ObjectId("5cf7f042ebb168913decdad5"),
     "taskid": "0xa0c235289de567ab91423ddb9f8969460c5fef9a601ac0151de2e10d5b3ae07d",
     "status": "3",
     "dealid": "0x0935ef6937af5ee9c118ad6023ac99c10c6f77098c3dfa3f844e1f7cdbea19b4",
@@ -2074,7 +2007,6 @@
     "finalizeTransactionHash": "0xd9e7cc6471368f2194f81b46469b590fe1a34a666cd32d8d9d1fc817f33ee766"
   },
   {
-    "_id": ObjectId("5cf7f19aebb168913dece016"),
     "taskid": "0x31f5ec03a05e7a07694eba298cef520ecad24b0eb46a0856dad5f59f59379a56",
     "status": "3",
     "dealid": "0x28b8ed46d42cda4fb09b9a1114591d1b5bc97142ff720b8405a3322682193134",
@@ -2105,7 +2037,6 @@
     "finalizeTransactionHash": "0x2e45cf715e7238b1ef67bee61dd7f6601ece78ed507f845625344274b66abe46"
   },
   {
-    "_id": ObjectId("5cf7f2ffebb168913dece54b"),
     "taskid": "0x41235cd1f7450c3cc7c3ac84fdad3c0eb0b00cf4e2494cff95dc271761200ada",
     "status": "3",
     "dealid": "0x70bee239a0e5ecc22137a355c4046df6f993a682f968ea51e93000def37c3adb",
@@ -2136,7 +2067,6 @@
     "finalizeTransactionHash": "0xfe0292f6898913cac15bab42743916e6333bac9ee108bb832790c0913189f6b0"
   },
   {
-    "_id": ObjectId("5cf7f489ebb168913deceaf7"),
     "taskid": "0x255439e5adf203526ee73d8fa2dfb37fdd3b13cc8154e3fd3a7d6ed40af8b0f6",
     "status": "3",
     "dealid": "0x4bb15a99cf2fcda0d0636df677f402af70877f048d1c65ccc9f9119c9201b0ca",
@@ -2167,7 +2097,6 @@
     "finalizeTransactionHash": "0xc4c76a906a23a21d678af800b319754eb9596304222e96040907b473ac2b3bb5"
   },
   {
-    "_id": ObjectId("5cf7f5d6ebb168913decefdf"),
     "taskid": "0xe6484d6084ddcf91a57275014debfad28ff05d0a4030c623d797d8eb32b52f07",
     "status": "2",
     "dealid": "0xeb702a21b49ef5e9ed8ef26cd13cb291a436ba129a3963b729bb8c3f55a06b13",
@@ -2195,7 +2124,6 @@
     "consensusTransactionHash": "0x6c33e765f957eb3e4cf1f6958609955e28c8f25236f667cb9d376872114a464f"
   },
   {
-    "_id": ObjectId("5cf7f72febb168913decf4e4"),
     "taskid": "0x52bd423e4a2f1da7764e0350ac3451ee9e4779d819619ef91ce58c1d614a1b7c",
     "status": "3",
     "dealid": "0xdfeb1f91beea776056d5ea22d57d34fe01640a4ad39022371345162778908c78",
@@ -2226,7 +2154,6 @@
     "finalizeTransactionHash": "0x98ac8e0a1f78757c12b812e40c32996ceac7a2c6339d2d54e787051dcd535353"
   },
   {
-    "_id": ObjectId("5cf7f89aebb168913decfa38"),
     "taskid": "0x5ed676dbe8e5bdc0c7ff4dcc48000f188ad1d5f76b3b25973b6fd598ba0c9e71",
     "status": "3",
     "dealid": "0xaa1c520b64086b51951ab0057d8065e425cdef1fd032ac3e4fdfdc7f8b9f105b",
@@ -2257,7 +2184,6 @@
     "finalizeTransactionHash": "0xe6d7922f9c2db3f33a2231f45c79bfed976313a05a01ad591100e7bcc7858fce"
   },
   {
-    "_id": ObjectId("5cf7f9e0ebb168913decff26"),
     "taskid": "0x38a26024163abca067e6a1c3a92d04497f85040786d548bb9f2060278edad80b",
     "status": "3",
     "dealid": "0x1f3a53544e70547c7e7a64c0d8f07033872778e9f9ec68e4df3f2f25a9b92158",
@@ -2288,7 +2214,6 @@
     "finalizeTransactionHash": "0x1c6ee706ab45c4911006b1021c48eab64228478c2271ecccd44f5442929b2c87"
   },
   {
-    "_id": ObjectId("5cf7fb3debb168913ded04ad"),
     "taskid": "0xfb9b6fe213bc715f23184f31fede0b293af79c509c34ac6bde4aa3b288e150c6",
     "status": "3",
     "dealid": "0xc78034a2a4cd1b5e2c0dc25370ad7061a1a205e9f9e8b41d8582c6bed7679514",
@@ -2319,7 +2244,6 @@
     "finalizeTransactionHash": "0x8bd47606a9f622e2987231f9f8fe7e1e433ba4d12d93fd34d7abc6295e3e03f6"
   },
   {
-    "_id": ObjectId("5cf7fc97ebb168913ded09b0"),
     "taskid": "0x60b8af5c928d4e177caeb4a6270434b4fd45a768c0945f0adb9c031f9cb1af18",
     "status": "3",
     "dealid": "0x1ff49a3cf34886b4415b02cae98ce2aa68567fb3fdbad9b2ce9130ed54184d2c",
@@ -2350,7 +2274,6 @@
     "finalizeTransactionHash": "0x92815fe823ba8385885fe6f91909977c11356236daac89aa7283cad973b47bcb"
   },
   {
-    "_id": ObjectId("5cf7fde9ebb168913ded0e84"),
     "taskid": "0x7ab55db8ad052cd64b9968089dd8f64c5a561a9985309b08413ca19eed4b2a3b",
     "status": "3",
     "dealid": "0xb736b58bdc7797647ca491085a9a44abfce5115303014c2a040e38f6d2ec77c3",
@@ -2381,7 +2304,6 @@
     "finalizeTransactionHash": "0xcde0e5630996dc273268e2ac306f15412497978996c7bfc64efde037737cc6d1"
   },
   {
-    "_id": ObjectId("5cf7ff85ebb168913ded14c2"),
     "taskid": "0xcb10e3011554a0e58cebd6c5b045b6085633308e5c3bef41e141229b7710c18c",
     "status": "3",
     "dealid": "0x0eb70ac5f95192bfa9cbc4031e87c8418e9d34520ccdf0683128b683da09655f",
@@ -2412,7 +2334,6 @@
     "finalizeTransactionHash": "0xbeddb422eca8f182562fad2ef9f633df543f91d927794b7ac506fe535840b131"
   },
   {
-    "_id": ObjectId("5cf80117ebb168913ded1a8a"),
     "taskid": "0xee473fdc785c86db7ec11905b9766943c7b0f1541be1e7c7ef814b7bf3a84359",
     "status": "3",
     "dealid": "0xb2c0500c14dc0f71d53b113302cab61de433d7bc1310f23389727687f575a2e6",
@@ -2443,7 +2364,6 @@
     "finalizeTransactionHash": "0x09f7a10694b4257e6baec3cee995adce84d4c6451bcad7f588fdf6300adbc063"
   },
   {
-    "_id": ObjectId("5cf80234ebb168913ded1ed7"),
     "taskid": "0x4ad1619343c9cc3e334c58814d6a2041ebd1849589196bab5624990f99f84bd3",
     "status": "3",
     "dealid": "0x60f9833dddd9167e4bd27a269da42b3b65f1e6a5ce6c55b6e692da937e1274a0",
@@ -2474,7 +2394,6 @@
     "finalizeTransactionHash": "0xac1019dfd78d31d5e853d7aba03411450319bb2152aab0e15c8e6613fed7ec33"
   },
   {
-    "_id": ObjectId("5cf80381ebb168913ded2491"),
     "taskid": "0x2c93c1c0a967df05f5eb58dfe6e43e42900b84d19dd4cc5fdbef2de76b02a33e",
     "status": "2",
     "dealid": "0x386338f5f66fb7f167311c0b0f84737f23ef0ca9e6a7b24cd504f8683f1b5400",
@@ -2502,7 +2421,6 @@
     "consensusTransactionHash": "0x3d1886fbea5fdb6d36e2432da98088a1208331683a7f740ff900d4eee67e0869"
   },
   {
-    "_id": ObjectId("5cf804d2ebb168913ded2998"),
     "taskid": "0xbfc304484a1955040afc46ccc49e2bc03ea72e3272bf4af4d0fbdfc0853c4ad1",
     "status": "3",
     "dealid": "0xd1c0ce066d89494ec39ea4feb94b23a5dafdf9493e9f023da69a721e0c76648d",
@@ -2533,7 +2451,6 @@
     "finalizeTransactionHash": "0x8fed8398d2188b7b14c309fb36f395ae41a90a445023788d459aa2bb92a72fc0"
   },
   {
-    "_id": ObjectId("5cf8064febb168913ded2f69"),
     "taskid": "0x10e6251ba74a401ce575fa9b9e1782e202cb974b75406ade37c22e506a341892",
     "status": "3",
     "dealid": "0xfb30b3bab65d2c86cbd3f612d5f9a312f959ceff73505f32ebe8f903d2353936",
@@ -2564,7 +2481,6 @@
     "finalizeTransactionHash": "0xce861a5345f363652682102255ffa50d88b65740911a7a7070018e841420a6c4"
   },
   {
-    "_id": ObjectId("5cf80789ebb168913ded340b"),
     "taskid": "0x33b1817e02a2e64bd2d66e5061b3f1c10a6aad88e188d070f719405c4f9e6348",
     "status": "3",
     "dealid": "0x5e124f97c6ea0739e204eade4a3e96d2089ee7c37b3934488367aa83f7708e6b",
@@ -2595,7 +2511,6 @@
     "finalizeTransactionHash": "0x6bb93c553d879ba0a81211d53daf8961105d2aa8c90f48b5e41ede509492c64a"
   },
   {
-    "_id": ObjectId("5cf808edebb168913ded393d"),
     "taskid": "0x0aae3e3d3bafc4361e09f1e77b00cac9f62c0c5992e946987871c77e3910c310",
     "status": "2",
     "dealid": "0x8abbfae453b6903579b98557ba2c6d4f8abcce85124193444384d2ad4608f6b8",
@@ -2623,7 +2538,6 @@
     "consensusTransactionHash": "0xdb6cf2896de8714bce847959612f1020bb18d75ea9da8f915dc767b242a20af9"
   },
   {
-    "_id": ObjectId("5cf80a49ebb168913ded3e40"),
     "taskid": "0x011cb5020075ce8acb1c611f5aaf40e91e15972d0c953117e06ef7dfb2013336",
     "status": "4",
     "dealid": "0xb22523d1c1fea976313d0b2aedcc1d895476c262210d025c3ac2bc4377b0415e",
@@ -2654,7 +2568,6 @@
     "claimTransactionHash": "0x5089290ae65d0737708f01985e81887aecfbe975c8d8f7e1ef516e2176ccccd4"
   },
   {
-    "_id": ObjectId("5cf80ba0ebb168913ded439f"),
     "taskid": "0xa40078ac8acb8b0f1e451f83fd86a62a0bcb242c95c942661bd82866d8526fa3",
     "status": "3",
     "dealid": "0x3247a52de6b94fc4b19d11f61495566fc14631a4f7c895c39021dc9e7cb7082e",
@@ -2685,7 +2598,6 @@
     "finalizeTransactionHash": "0xaaeff8ed7d55d7b6dada3bbee3bd22c78c3158632d1498c145afac8d62274e2e"
   },
   {
-    "_id": ObjectId("5cf80d0aebb168913ded495c"),
     "taskid": "0xa295752941b99f15d5a7a5903903f4bf39f863f96457f402b9c578fc6e52b360",
     "status": "2",
     "dealid": "0x1f4f9cce3dfda89c4364b78c813178c2935a3b8945d8a3bcfac7cec2f217a749",
@@ -2716,7 +2628,6 @@
     "consensusTransactionHash": "0xf2353ae4c152c547dc31be8ca548cf112f07f5123f134038311872a56e42d72b"
   },
   {
-    "_id": ObjectId("5cf80e6eebb168913ded4e76"),
     "taskid": "0xb6e386c4d6c4c94c7e5a8f85aaed72a2d05bac949faa2a17cac6cddb9657534a",
     "status": "3",
     "dealid": "0xbe2582438d6904b3d01efdce01e6b2f7cf4f6d5e053a82cde4ef0dfe33a5e8fa",
@@ -2747,7 +2658,6 @@
     "finalizeTransactionHash": "0x65734700a379f7fa81a00c5a4c77aa76e4793a8886a6a55561afc237e0473477"
   },
   {
-    "_id": ObjectId("5cf80fccebb168913ded53a2"),
     "taskid": "0xf4eeb65637cd6aaed7b80f046596de7ec468d6a57d7b7afc0dce0f1d21a37835",
     "status": "3",
     "dealid": "0x16c995a32a79f410c934866779d022297bb1e53e9c386d1e9e8c254fd1026096",
@@ -2778,7 +2688,6 @@
     "finalizeTransactionHash": "0x42560ad8057a2821a3eec94dd3e95c7bc8fbfc3004e48b8247c4da6c1b856c04"
   },
   {
-    "_id": ObjectId("5cf81111ebb168913ded585f"),
     "taskid": "0xe7c1ec1e3917bf7255edb706dd73afaafc22398bd2f9aaf06bc6c0b27b15c6d1",
     "status": "3",
     "dealid": "0x5bc7ff37089d1cb32b1a6ae235c0302fe12183a554ef24a4bc8b1fbb22b4cdc2",
@@ -2809,7 +2718,6 @@
     "finalizeTransactionHash": "0x775ff178358dd8df12e002894287f9474842c9ab27d453d7cfbbd2ba3fa417ab"
   },
   {
-    "_id": ObjectId("5cf8126febb168913ded5d85"),
     "taskid": "0xfce3a452c30471c2d93b29c3d0fc619e9c87fe83a357c32d56f7cb8153b4c8aa",
     "status": "3",
     "dealid": "0x60be5b9f40b84b417b32ae9a4138661ff06d32bd7ae4475418f20e38019ba3d4",
@@ -2840,7 +2748,6 @@
     "finalizeTransactionHash": "0x066bf2824990f6ef7cd7945614594ce856b15f36a275fb3d5bbc3038935ffd75"
   },
   {
-    "_id": ObjectId("5cf813c4ebb168913ded62b4"),
     "taskid": "0x2a88f2d6855165f208393400ed1675c45ba4ab0d960cad3150ca49024036af20",
     "status": "3",
     "dealid": "0x8acb75b326820e995e7ac94e75c73843e58a4a855b385649592783f5ef7655f5",
@@ -2871,7 +2778,6 @@
     "finalizeTransactionHash": "0xe445aad73e15d2df13a7e322132fd6c3a2b18660494901e2b133be4efe6881a7"
   },
   {
-    "_id": ObjectId("5cf8153cebb168913ded684f"),
     "taskid": "0x79f07b303ac8c341ed60b8fe5dab0e0a8abcacac039534b528ef1c7cd4f69006",
     "status": "3",
     "dealid": "0x4aff42fbbb29f5dd4f8be07e261b3c675a7648cea01cb004a4184290b5964eab",
@@ -2902,7 +2808,6 @@
     "finalizeTransactionHash": "0xe009021c2229dcf9c3e1393211411dd2d0fb7199654835c0ef9b24ddc2b48daf"
   },
   {
-    "_id": ObjectId("5cf816a9ebb168913ded6dca"),
     "taskid": "0xf13fdf4daa2bf0205eb3f3402d68a8bc22bc9a78376e957e28d7b9d7c5808099",
     "status": "3",
     "dealid": "0xc375acdc118869534360c60d2d7c080319b0a24310680a2ba8bf6c4c557df4d6",
@@ -2933,7 +2838,6 @@
     "finalizeTransactionHash": "0xa2ad633588795e71573e8596110f6fb12bde22c74ebbdeeb7165ed0ad23deaf7"
   },
   {
-    "_id": ObjectId("5cf817ecebb168913ded72b6"),
     "taskid": "0x1543dbcc749344932ccb28351438f90201b9851b104b507092c9b5c27e0a4632",
     "status": "3",
     "dealid": "0x84867a21578edaf1a90d88ff40cbe873acea5d9abf684d80596210f9ae70c760",
@@ -2964,7 +2868,6 @@
     "finalizeTransactionHash": "0xdb1feb0ac3e66f2b6efe7006c85692e34af8455eabc57325657decc16d5a869c"
   },
   {
-    "_id": ObjectId("5cf8194eebb168913ded7806"),
     "taskid": "0xcc7818bcf49468590637ec21e5eb2daa195310ff71b37284a168bdbcdb8a9122",
     "status": "3",
     "dealid": "0x64a0957f99e683c66062077003e9d02460cc7b032184a80df65b7497ec6ff1a3",
@@ -2995,7 +2898,6 @@
     "finalizeTransactionHash": "0xe9a9c5754ffd06845249a5b67b9217b490fdde20b4dc2414363f0dad290c722d"
   },
   {
-    "_id": ObjectId("5cf81aadebb168913ded7d33"),
     "taskid": "0xae2e12604b8ba7830525bdcc361c6f25e184ff78bedabba25dcb1761a3828723",
     "status": "3",
     "dealid": "0x325da2cf41d4a342fe6ead646b9bb1a3918f900d76e5ccce1562955274ceb919",
@@ -3026,7 +2928,6 @@
     "finalizeTransactionHash": "0x16ceba14018801c59fc82aafd6bc73b521747596def919a77b0b769c5100548b"
   },
   {
-    "_id": ObjectId("5cf81c62ebb168913ded83d9"),
     "taskid": "0xba8bd1755f2d26a957f490a7d5dd1c81d4e157b034d22265d6a3be4ace6d175f",
     "status": "3",
     "dealid": "0x7ae147bedb3a1668b293465d0d3f89d30ab51dc262378d933739ac75570a3bba",
@@ -3057,7 +2958,6 @@
     "finalizeTransactionHash": "0x7f30422b809df60c550a9f6db977031c5fa15bda4cc276152c7820cc86f0301c"
   },
   {
-    "_id": ObjectId("5cf81e4eebb168913ded8b20"),
     "taskid": "0x9c4752120be3b8c6f6aebb86e79b43d746cbc47f0258f6cbbd1c62870ec101ae",
     "status": "3",
     "dealid": "0xec999d65298de7d591cc8ed8f847a49b5d8450172366f49cd44220ab7db6cce6",
@@ -3088,7 +2988,6 @@
     "finalizeTransactionHash": "0x6214b7a028f7d4eefbcf55e99f17aaf7c730d1ff9eed3560980b2b34bf48fef6"
   },
   {
-    "_id": ObjectId("5cf81f7debb168913ded8fa2"),
     "taskid": "0x3f5f61713b493f6832a0709301f9534a31c8b4df2fc4a067633ca78109afc95b",
     "status": "3",
     "dealid": "0xfa0ac898191de2dd817ab91f7e720125f47738d8a44872ef3f3a006bafe4895d",
@@ -3119,7 +3018,6 @@
     "finalizeTransactionHash": "0x1ca68d444412bc9cac4e5ec6b8f78598e68a5d26e4fdb6117252c17c758513b1"
   },
   {
-    "_id": ObjectId("5cf82127ebb168913ded95d2"),
     "taskid": "0xd2f4633fee9fdd0fa5aa14b21fc3531f10790836721d5a1ed4abbe31972e8551",
     "status": "3",
     "dealid": "0x2912409eafc0d895deeeff4f01d02fbf2de8be145928380fa0357e0b17ce2b2a",
@@ -3150,7 +3048,6 @@
     "finalizeTransactionHash": "0x174a81b7e7b20898103d031a633bbb39e615e053cf48dabdc9d82c699094c1e2"
   },
   {
-    "_id": ObjectId("5cf82280ebb168913ded9b3a"),
     "taskid": "0xaa72a38a488079dcf7b5f86795f7d24abc26ce5cb92e2488cad52838ecee8653",
     "status": "3",
     "dealid": "0x86fad332e6bd0761494b838ce32093f35b9073595eb499a932bc41c98ba1e118",
@@ -3181,7 +3078,6 @@
     "finalizeTransactionHash": "0x83ba03a9b2fb375effda75e15e2b20acc32edeab407915c68226f0236f56513c"
   },
   {
-    "_id": ObjectId("5cf8241aebb168913deda148"),
     "taskid": "0x9cd9217b61cb362ef3a4318cf86ddab5b7fc060afdf589b1dad52aff66518976",
     "status": "3",
     "dealid": "0x511ed2ead9cae1fdda8ddf45adaa61855d653417bcf3be713993aec1b02e1ad8",
@@ -3212,7 +3108,6 @@
     "finalizeTransactionHash": "0x39030a1ece18edc34349d484377e880b0f97dddd6938e50cdd4bf01d02ca9785"
   },
   {
-    "_id": ObjectId("5cf8254bebb168913deda5b4"),
     "taskid": "0x0e355d4c263d0c7a2aac9ee28c9b07b189d236a2c5525a569c6c250bf551c794",
     "status": "3",
     "dealid": "0xda4afe659c509123bf4dd66a9482d9d66512253c2995a7c97cbf29ab3655b185",
@@ -3243,7 +3138,6 @@
     "finalizeTransactionHash": "0x8248414690c23dec6a1b09212e4d7ad21d25c283402dcb330b94da7b61dfe807"
   },
   {
-    "_id": ObjectId("5cf8268bebb168913dedaa60"),
     "taskid": "0x7eb3957e4416ea91b259811f8c6a58a5897650591e3710dab082a3d9bc089329",
     "status": "3",
     "dealid": "0xae2e7dc53f5171186fc71de9fb86fca4d91e4e5ff04add529086a9cd293dcbfb",
@@ -3274,7 +3168,6 @@
     "finalizeTransactionHash": "0x85086de278e1422073142d0af1ab9afa6cd52af67d4c0662a41c910b06b9bf9b"
   },
   {
-    "_id": ObjectId("5cf827d1ebb168913dedaf3b"),
     "taskid": "0xa8255fe5ec4b85d81a1dfef76cda8a71d73a38265ca0af8c5a9a374e44d3438d",
     "status": "2",
     "dealid": "0x1129aa16f875625c27e461ee8839c9c594d3c6fa74f9b7d10dfa024bd355a060",
@@ -3302,7 +3195,6 @@
     "consensusTransactionHash": "0xdd1903fc73f3f749eaa7cdc8ec50132d6a0458cfe3c50844727640d0ad207b5e"
   },
   {
-    "_id": ObjectId("5cf82924ebb168913dedb41d"),
     "taskid": "0x919b9c6e13038b8a2e6a58c10355f5b41d5f18af66dda050f07594caac1f08a5",
     "status": "3",
     "dealid": "0x01686e9fa0b76fd7d04852c3dee6750591d85f0d783e7d9aa925c0acab374916",
@@ -3333,7 +3225,6 @@
     "finalizeTransactionHash": "0x3f5da4622c4630f18a9bae5b58d5438d2ebf6e2da67829ee48517f93e8123ac5"
   },
   {
-    "_id": ObjectId("5cf82a8febb168913dedb949"),
     "taskid": "0xda1818516e1ad48109f08b74f23daa73fb3a2eeb41d58d1040d319ca9e92e302",
     "status": "3",
     "dealid": "0xc0fc74e5a3aac88dbb09989e993ed5d7447755823642471a70cf61e925e2ed5b",
@@ -3364,7 +3255,6 @@
     "finalizeTransactionHash": "0x2b43ab21afbd9f7012f1acc93c4c013d654b86d98bee70fca571a5a8f2a5644a"
   },
   {
-    "_id": ObjectId("5cf82befebb168913dedbe62"),
     "taskid": "0x6620db31e493ce24b5747af146aba63a37d24ca8ecc1b52d253ce207306872be",
     "status": "3",
     "dealid": "0x3ef7ca23e0a1024d866f826e2fc4f6053590d0fb036dfed20b889f0d7ea099f7",
@@ -3395,7 +3285,6 @@
     "finalizeTransactionHash": "0xbcc34132a1ed592cd0f60a8a99266fad915be9db15b031c298a26a0f8282ad5d"
   },
   {
-    "_id": ObjectId("5cf82d6eebb168913dedc3e2"),
     "taskid": "0x2e7243ebdfecbbbaf5e89be489f8c4948e51ef5646086d1ee74b247fe0321486",
     "status": "3",
     "dealid": "0xd99ad5166b624c1fb14d64056d86bb603487d89d1e84da407ad952dd0ab755db",
@@ -3426,7 +3315,6 @@
     "finalizeTransactionHash": "0x4f6f1bdd1e31f709079b6c4ef2ccb19c8fc940b9925265142fc2bfeed988c619"
   },
   {
-    "_id": ObjectId("5cf82f3eebb168913dedca9c"),
     "taskid": "0xe095b72b184d6f36740786cc17ef95ef4e9fb551132cbca96323a3d83f0c5f9f",
     "status": "3",
     "dealid": "0xc1ad46d3c597b69a72c48163326113d5f68dd1eca006d9cf24032004ee969fd7",
@@ -3457,7 +3345,6 @@
     "finalizeTransactionHash": "0x8fb073ebd4f6f0cf4de21aad283ec70170e18de50c44bf12b64e00a1d98bc204"
   },
   {
-    "_id": ObjectId("5cf83034ebb168913dedce33"),
     "taskid": "0xf8a1b17f25f4c623dcea9f2922298da83ed1b9caa9d2be8379dc040effe129e9",
     "status": "3",
     "dealid": "0x74cf561d2ba0eece3ab7bba842ea8f04700eb376e203a3b93ec7f135ca665bad",
@@ -3488,7 +3375,6 @@
     "finalizeTransactionHash": "0xeaa991346558050e1d04ebf31e968bbb19c04f434347739a9680745ef0d4bf62"
   },
   {
-    "_id": ObjectId("5cf831b1ebb168913dedd3e2"),
     "taskid": "0xb21d2524935777721bfdffe0f447f2365d7d47d13053c758f1e3ce9eca565e1f",
     "status": "3",
     "dealid": "0x0f6b545def6e4168c6f48c60799d26a798736267f7b05f7ff34cd9ccd744e39e",
@@ -3519,7 +3405,6 @@
     "finalizeTransactionHash": "0x3516380b470cb6e81422035bc3d5885bad3bc937d59d31c746390ebd5dbdd40b"
   },
   {
-    "_id": ObjectId("5cf832e4ebb168913dedd873"),
     "taskid": "0x930e47706a78a0ede9bf487f0b7fa53082ae99c994edcd0225c013e5546727a4",
     "status": "3",
     "dealid": "0xb23b790ffd3bc10aa479720b7d9026bd802582b277b751cf95af2f9b682da497",
@@ -3550,7 +3435,6 @@
     "finalizeTransactionHash": "0x5d239da604f03da9f35b69315bac1a68f0e6d9e802db4b355e552e6ffb024644"
   },
   {
-    "_id": ObjectId("5cf8342debb168913deddda7"),
     "taskid": "0xa06d49405c3339de8cb6c959f54316da443ad5205374bd643f0c234028288282",
     "status": "3",
     "dealid": "0x5bc71cd51518122aabcbb87d5cfd999623b6662658516560544a3082c21a1f4a",
@@ -3581,7 +3465,6 @@
     "finalizeTransactionHash": "0x303eeef64c840643e752fa64fc39d0af29e022b0f96d7b6c5be8c59d28104519"
   },
   {
-    "_id": ObjectId("5cf8358cebb168913dede2c9"),
     "taskid": "0xca79113b8f2d30d72f31bbe59fa0cc703c2a11bc21ba4249ab47950a81b327cf",
     "status": "3",
     "dealid": "0x0f9a7b92eb0c8e3985a09477f3424f5ac310e0e2ce6d217adbe630a39241f795",
@@ -3612,7 +3495,6 @@
     "finalizeTransactionHash": "0x915a8cb8ea746284cfc1205d337f4aeedc5be7ee8a028b89ce16c06b4c3475ba"
   },
   {
-    "_id": ObjectId("5cf836ffebb168913dede850"),
     "taskid": "0x114a4fd09c680ece206abf5ef28fef6a7138a56a45e1ab2a63f67e19f53cd6e0",
     "status": "3",
     "dealid": "0x382e0781534c8adda4d67cb3a499ebf09c4e30d64bd8102b66f24ac9ab7e8e14",
@@ -3643,7 +3525,6 @@
     "finalizeTransactionHash": "0x121e6657732b8a1a1ab4fa09734361067a759983103e8d383eee2f55fa224513"
   },
   {
-    "_id": ObjectId("5cf8384aebb168913deded3c"),
     "taskid": "0xe53a20a22567b8cf1bb6639d4cf4c67d39cc3b968dcca6b4a75d43ebeff295d0",
     "status": "3",
     "dealid": "0x6bea72b7d1baf1bd40f013aafe33ade217ef379a47243680405fe8064a7dc4a5",
@@ -3674,7 +3555,6 @@
     "finalizeTransactionHash": "0xffbcc19d6dbd82cd26da72f00e4ed8e14ecb25f39fdae5d4e569fa282c12bb71"
   },
   {
-    "_id": ObjectId("5cf839a4ebb168913dedf231"),
     "taskid": "0x568b009d86f3097cf0fc50247c30f8570d6fdf8a3faf6017ef67bf7dd970ca0d",
     "status": "3",
     "dealid": "0xb5e185cdd7acea817b1c575e89f83e0cce7e83a3bd246567f1079d804996b9e2",
@@ -3705,7 +3585,6 @@
     "finalizeTransactionHash": "0xe2e03cc0862c4f0689611e8d26362475ce7d9b2f8587e5b32a207cf4818a7d88"
   },
   {
-    "_id": ObjectId("5cf83af3ebb168913dedf6f9"),
     "taskid": "0x6def0374d563e6ed32d6596b31c08473b139800ae9229faa1133c5c0a306e5aa",
     "status": "3",
     "dealid": "0x657c63ac7c653417da2ffe703fbcd2bcd3c54f386c711e6d8da6ae65ff199ce4",
@@ -3736,7 +3615,6 @@
     "finalizeTransactionHash": "0x50066fed7e1493107beeb6e1e5798a4d92ac97d7ff1db236f61bcc15733fad86"
   },
   {
-    "_id": ObjectId("5cf83c8bebb168913dedfd06"),
     "taskid": "0x4f438ac9dfd460981943e34a7bb55e8477fa6d99663535428346abf50c698e12",
     "status": "3",
     "dealid": "0x6e4a3792e048a5713132d9a48dbba4d7a87696d6bb4bc930b62308dcb1f57e53",
@@ -3767,7 +3645,6 @@
     "finalizeTransactionHash": "0xbb1d73f8570a4e23b40255165281f28e5ebcba7ef8e254b572dee02afa82cda2"
   },
   {
-    "_id": ObjectId("5cf83dc2ebb168913dee0188"),
     "taskid": "0x30bff92e4ee99e4aad55cde4408f9ce8d191f00b9fa2b0979eeb0a7402639cd9",
     "status": "3",
     "dealid": "0xa1bb2591322bdbda6f3d424a938b6d7b922fdd1441997ff64dfde8a51cb40e51",
@@ -3798,7 +3675,6 @@
     "finalizeTransactionHash": "0x9fe0328d524c3ce47774d3cc3e4a93871f9b93dce02c15449853d211957bbe06"
   },
   {
-    "_id": ObjectId("5cf83f15ebb168913dee0660"),
     "taskid": "0x6a2229ef0edf733dc863115fe64d58d7db12cff7561fddb25ae7fdea88ae9244",
     "status": "3",
     "dealid": "0xab1c6fd58735c352b66cdb08221663362343142bd5e28637092ca01c730bc449",
@@ -3829,7 +3705,6 @@
     "finalizeTransactionHash": "0x73cf274b95e0760e4283f9ad115ae60880d1a9d03dc9db67c384d98d604bc73d"
   },
   {
-    "_id": ObjectId("5cf84068ebb168913dee0b56"),
     "taskid": "0xaa1c6e16f7ec963a85995fb258b6b8e20f271a1e19df9dd65e035add7604b7f6",
     "status": "3",
     "dealid": "0xf27d7cb04fd2bc6f8ebd429ebd60153c63975e29e6f6c8fd5a296eead77144fa",
@@ -3860,7 +3735,6 @@
     "finalizeTransactionHash": "0x8114f0da5aa37e1b1cafe8164898f123e7087afeb63ab40401ff8d173375daad"
   },
   {
-    "_id": ObjectId("5cf841d9ebb168913dee10ab"),
     "taskid": "0x7177ed8becf8caa256f9e225aa2163ebcc470cf8f77251349e585f9629dce091",
     "status": "3",
     "dealid": "0xc044dd31e552d7cea4e17bbf6f82b04a378233d8e6f652a340cba784ef996087",
@@ -3891,7 +3765,6 @@
     "finalizeTransactionHash": "0x0a0ac2c2deae3f8f9114c463d9cf9d111edffe5a58eec62ba7eedb2770c1cfb7"
   },
   {
-    "_id": ObjectId("5cf84347ebb168913dee1627"),
     "taskid": "0x07a9d42e41b0cf87ffe4fa41dc8ad7f14cf424cc5d83f7bebb31767c7ba014b9",
     "status": "3",
     "dealid": "0xd4f969c7aebec63a1d309557b8d189f4ceda30d18632dbfce8f3238f400a7a37",
@@ -3922,7 +3795,6 @@
     "finalizeTransactionHash": "0xa04f98023ec4ec6603f9e158d9e24e11b3a481e8a21353968008c60862b856f4"
   },
   {
-    "_id": ObjectId("5cf8447eebb168913dee1abd"),
     "taskid": "0xd0c9e381f38f5dfe504611d3fd1e1d90d92e05886a4752675aff136266e5606a",
     "status": "3",
     "dealid": "0x625c29153432cbf7c14e25236b2922e08531b2a8e559e30603af22964d951e93",
@@ -3953,7 +3825,6 @@
     "finalizeTransactionHash": "0x32a40bbc17c15702661c5a1714b7aace058c3379e8657f59b6efa68447ec0189"
   },
   {
-    "_id": ObjectId("5cf845ecebb168913dee200a"),
     "taskid": "0x0e1f0a6600aa4f8c2ffeed0bfb7b1a85035e03587b1f99e2eb1b4d6659b78409",
     "status": "3",
     "dealid": "0x3df8aab5b4168bfb0b21ffb8c44a1a4f6975a229610ab868994196aa43eecfe8",
@@ -3984,7 +3855,6 @@
     "finalizeTransactionHash": "0x2fa4ee22c5f018c78b58e444e1084326abb81a03d0f3ede19ee6bc48e4b60ee3"
   },
   {
-    "_id": ObjectId("5cf8474febb168913dee251d"),
     "taskid": "0xce927ddfa6f854dcfe82797ff0ef71b95558160c6180da5524f4f756040f9fa2",
     "status": "3",
     "dealid": "0xa2d35583e2029c6a9e75cad8fab901d0db8e5723a2bb2279c97d7a002b5e4891",
@@ -4015,7 +3885,6 @@
     "finalizeTransactionHash": "0x8a2bc1ea9966df84ae3e7a26d0b3351e5eac10ac4c8e8ac2cc95bbad8f579e08"
   },
   {
-    "_id": ObjectId("5cf848ebebb168913dee2b22"),
     "taskid": "0x1b0d612f837abdc31b1c09a46787dbc44e2ce615805f7d4477634d479f27b82b",
     "status": "3",
     "dealid": "0xb72cacc28fd2f13d9864e6cf6c715a55fcefc3e01fbf778fe989f77537578b07",
@@ -4046,7 +3915,6 @@
     "finalizeTransactionHash": "0x200a6b2a2f8f4349e1351cc8dc3ec928d3b84ef1f757a996ce94fbba1f3f1e91"
   },
   {
-    "_id": ObjectId("5cf84a1febb168913dee2fac"),
     "taskid": "0x82af8c5e91a46b1299d6dbc13eac464f2f94634935280b1c4245d7a9e35c9ed8",
     "status": "3",
     "dealid": "0xf0dffc24e5486409ce6e91fa17a15193685eeae2bd15a210a5c27685b5e5dcff",
@@ -4077,7 +3945,6 @@
     "finalizeTransactionHash": "0x7a1f9cc32d01c78679cde8d3ffda209556bcd2bda78a696195714d9a2259f801"
   },
   {
-    "_id": ObjectId("5cf84b86ebb168913dee34cf"),
     "taskid": "0xf3d736279f63227702e88e8af1bce97b11f47bff82443551dd6d422e44505a0b",
     "status": "3",
     "dealid": "0x066267ded49774f07efb943f2b73a884ec9ca59c55f8b835e0be4c472bcbdffb",
@@ -4108,7 +3975,6 @@
     "finalizeTransactionHash": "0x5abfd01278bc05e74d72849b8a95c5e5a0177ec07ad7c71f459d07c49390935c"
   },
   {
-    "_id": ObjectId("5cf84cceebb168913dee3994"),
     "taskid": "0x16246ada750521deb3cc87a5ff47e54c98c2dfe56c59247dee2a924cf063c6c0",
     "status": "3",
     "dealid": "0x7089407df8541c3e29a6d3d46edf71a9afc7c6b5fca6ceb37b0f31e795d04a71",
@@ -4139,7 +4005,6 @@
     "finalizeTransactionHash": "0xa643375478ffdfee683a3d3ab7e15a49b35c8addc0622c0b89a7ce1aa265763f"
   },
   {
-    "_id": ObjectId("5cf84e1eebb168913dee3e6c"),
     "taskid": "0xc24cdc89e0b5292476a90e492aacfa14cd9e4f67b822ce73a8152e8f9b6c5355",
     "status": "3",
     "dealid": "0x1a7890c3f3d5e2862279cd3036afe665da5cd19e8ec6d969053a035cfae2af00",
@@ -4170,7 +4035,6 @@
     "finalizeTransactionHash": "0x68a0cb3775902d758cf6432c8d15cee5e9d32001af1304350341e8450cd665a7"
   },
   {
-    "_id": ObjectId("5cf84f7debb168913dee4376"),
     "taskid": "0x0f90582ccc0badd33a98e70dd4c67f964be9aa3c2f2baf4b25aaf1abe7184ed9",
     "status": "3",
     "dealid": "0x13bb6a5f4db74e2262d998c1e219a4d9f3e046d7b10773a09ba4ef6f75b6f672",
@@ -4201,7 +4065,6 @@
     "finalizeTransactionHash": "0x14d6e4ab34c66361b772264ef2009d4783285e6e36a9b0f11b0cd59e38850be2"
   },
   {
-    "_id": ObjectId("5cf85112ebb168913dee4989"),
     "taskid": "0x537473f3ea08700f303fb28a1ebca4835bef5acb3e83256540f74b942b61ccae",
     "status": "3",
     "dealid": "0x3b05206568e2ce2556910a429c2ea897106228fa136ee776e4b59c0f88e8bb38",
@@ -4232,7 +4095,6 @@
     "finalizeTransactionHash": "0xf40fd7dd881cd6d4b50188e8ca592548a2dc0cd650c8f2b010594be286abcc92"
   },
   {
-    "_id": ObjectId("5cf8524aebb168913dee4e3e"),
     "taskid": "0xcfde9138eb10d8ea891194bcf63556d78ac894b9d2aa39cc31b962bbe7a05995",
     "status": "3",
     "dealid": "0xfd00141e51f61c9270c5b794001cd2498150dd773637f6c52147ee83653ec610",
@@ -4266,7 +4128,6 @@
     "finalizeTransactionHash": "0xd16f577c1613ec403a5948125a7a216c44cd9bcb54febc4f2c87639661eee2d9"
   },
   {
-    "_id": ObjectId("5cf853aaebb168913dee534c"),
     "taskid": "0x9cece58d61af20e68f08291b2b8efead0f43dea872ae7eeb7401e5c6f5f32e22",
     "status": "3",
     "dealid": "0x7c2c94501c306b3e91f37f732e21a772d36fa9e641f1140f2dc5cf75c57da4d5",
@@ -4297,7 +4158,6 @@
     "finalizeTransactionHash": "0x537f0280b13bd41768d03badd1c36cbb82deaa90fdb4843e88dda3c4acf46e85"
   },
   {
-    "_id": ObjectId("5cf85551ebb168913dee5994"),
     "taskid": "0xe3ef077b27d3059ef0784374cdf57e6c918ddbea70b6598b993e939ec92cce9f",
     "status": "3",
     "dealid": "0x7e1159c2c9a973162654e421282fdbf9598557117ea3355c1720584513c78eb6",
@@ -4328,7 +4188,6 @@
     "finalizeTransactionHash": "0xe6786b0575117ebe66905abfefeb652f930802ae2fd3be83ff8416f94dc7ae99"
   },
   {
-    "_id": ObjectId("5cf85664ebb168913dee5d93"),
     "taskid": "0x9f7932a732adc252a4a197db40152758789ccd90076d75c8c840c3412e1ab080",
     "status": "3",
     "dealid": "0x65d1951b09da546d06d6891994b7fbe7b6f9924cde50c0f906607d529b05c54c",
@@ -4359,7 +4218,6 @@
     "finalizeTransactionHash": "0x7f566edd6a58600c508232d1cbccdab3c97f2686eaece105b0c99e19ef88fe26"
   },
   {
-    "_id": ObjectId("5cf857b0ebb168913dee625f"),
     "taskid": "0x3fb26fff45addbb2527ca1d09a6c5ad293b9b89b3e9ed15421f37a7f39f3cd9a",
     "status": "3",
     "dealid": "0xd465cde978dcb66c0ec5bccc5077b72c6560ec15da0341f7dd29a72632eee901",
@@ -4390,7 +4248,6 @@
     "finalizeTransactionHash": "0x585bf6e86f4399a0c5ad01d413e686920cd7a1c6e1fac8313b4fc1a5ccf7e40b"
   },
   {
-    "_id": ObjectId("5cf85916ebb168913dee6792"),
     "taskid": "0x825ca8167871e26de3ae486ea576a5414534b06e9fddbb7b0ddd051eb3fab901",
     "status": "3",
     "dealid": "0x1825ed2af6ad952446fd07ecf56d8f025c4fae2b0831569c0885a2172c62514b",
@@ -4421,7 +4278,6 @@
     "finalizeTransactionHash": "0xae8a5951108fc708dc9534e075ca85303dbdb890e10699aacb155aea078817f4"
   },
   {
-    "_id": ObjectId("5cf85a7febb168913dee6ccf"),
     "taskid": "0xf11c844da2377d99d10f7b54d423c5217b6d497539c69095cedc4989a52f38d6",
     "status": "3",
     "dealid": "0x84bdf357a2b4ad624661bd10fba902acbc2e5c1f09ab29fe0d747c7ed64ad8ed",
@@ -4452,7 +4308,6 @@
     "finalizeTransactionHash": "0xa0249d0b7131473c9cd15dc979e70c09902e2108ff2d3fab1b5711942922b094"
   },
   {
-    "_id": ObjectId("5cf85bd2ebb168913dee71d2"),
     "taskid": "0x45c06d40f079435e3f8c1a95658e78d718f8a346bb2bad4602f0d5ffc55ed385",
     "status": "3",
     "dealid": "0x84b1117c74b4cbe7cf9cabe50fcbd06335ee27b239d154f5e4a7ce1b9f34da77",
@@ -4483,7 +4338,6 @@
     "finalizeTransactionHash": "0x9cea1efd7b152a99eb4a6b305ea62e5077afaf30af21dd7b5ab0459a4443c113"
   },
   {
-    "_id": ObjectId("5cf85d2cebb168913dee7712"),
     "taskid": "0xe16980838521f959dde8eeadec4f36b9613f8c4aa9c85506a545e0d584249532",
     "status": "3",
     "dealid": "0x0322377161ad551a6c90568d8e8899fc9ab71dfb238e88d026aa9f6d820d31ad",
@@ -4514,7 +4368,6 @@
     "finalizeTransactionHash": "0x8d67e11576242178670421b8e1a504e83d4b8e377b1395e63ef7af7e6cffde16"
   },
   {
-    "_id": ObjectId("5cf85e83ebb168913dee7c0b"),
     "taskid": "0x931882542f8ce135aedb34eb8689c919269c3f15755b972344a3fde60c1875b7",
     "status": "3",
     "dealid": "0x986d868002d697b29bc18d5278bea364fd49be3f7aefb29e3205da9cab61a4cb",
@@ -4545,7 +4398,6 @@
     "finalizeTransactionHash": "0xebe57ac08dc5290c73ce032e981e8488f13f64c07ffd082311720995439fac2e"
   },
   {
-    "_id": ObjectId("5cf85fc6ebb168913dee80c9"),
     "taskid": "0xc8f2d2b0c0fae480119e7004025aa93001f26437838980dec729b741b0612b95",
     "status": "3",
     "dealid": "0xce37913655c6fff35f9077f13fd2a7ed7ef3c9f0edf7a80f6051a52dc4770bcb",
@@ -4576,7 +4428,6 @@
     "finalizeTransactionHash": "0x7648c12b1e0b9fdeb3b35e3780b321d4ebe172906346979fb3e5beb56e134ee9"
   },
   {
-    "_id": ObjectId("5cf8612debb168913dee85ff"),
     "taskid": "0x61dd70eca1ab147d54670dbd36aacec02615ee50e9a7bea9905798158985d06a",
     "status": "3",
     "dealid": "0x3cd8b52ba2685f0b3c8b0a0713889f46228dcf2c2a22ddecb6e7aaf0777d11af",
@@ -4607,7 +4458,6 @@
     "finalizeTransactionHash": "0xdd0a3620d10b6e41d466089096c5efee20dbfd5aab2cb7d635e3ad1d3e77f581"
   },
   {
-    "_id": ObjectId("5cf86279ebb168913dee8abe"),
     "taskid": "0x56a13c74ce68ba8d3fcf5080b1053ae3ab5aff7bf1dc6f26d23083ea18329ee4",
     "status": "3",
     "dealid": "0x2731b016a1d070ffcf8e187779471b64576fc6ba945cec96e80e076435933aa2",
@@ -4638,7 +4488,6 @@
     "finalizeTransactionHash": "0x35e3dac34eb6be45386dcdfdeef0dd74759b84f7ffada93ba0e611e7a278fbf2"
   },
   {
-    "_id": ObjectId("5cf8640bebb168913dee9081"),
     "taskid": "0x47e2eae4be2e42892594d656f04941a9782033111b98a0b0b6ee84d12bc5958d",
     "status": "3",
     "dealid": "0xcd5238d7043ffc89a5115e24c496f3899969514e9bff081e9e27a55079621032",
@@ -4669,7 +4518,6 @@
     "finalizeTransactionHash": "0x17932dbb254632af90d955356c5282d93f4478c6e2c7dac85fde3191518d34a5"
   },
   {
-    "_id": ObjectId("5cf86550ebb168913dee953e"),
     "taskid": "0xb5485b02c73811a911439a5cce5f6324f7eb1335cecb5de5585a963798d3a346",
     "status": "3",
     "dealid": "0x94eafc546fad21d9b1aca63727789db0549ac5292eb1b98e14538a7629bf96e4",
@@ -4700,7 +4548,6 @@
     "finalizeTransactionHash": "0xbdd476d38590fd82af3254c11903286ec080c7c8d1eba5064c7dda22ac00301a"
   },
   {
-    "_id": ObjectId("5cf866f6ebb168913dee9b4d"),
     "taskid": "0x5eb0146a21d96986af290e6039e2948a621f189132cac605409bc1d2b037f703",
     "status": "3",
     "dealid": "0xb1e9875a0ee023f7f8bd4e2e007163c216b9decde841604ccd09554954394e60",
@@ -4731,7 +4578,6 @@
     "finalizeTransactionHash": "0x2ea48a22dbeb1f617ffcdf6cc71eac2f346f90632b13a11d225966c95f16e882"
   },
   {
-    "_id": ObjectId("5cf8680eebb168913dee9f71"),
     "taskid": "0x9cff73a6441471abcb7a468c493c1851544040deea55dd7b7e545161fe2497a9",
     "status": "3",
     "dealid": "0x26c3924cbd04c98843b5f689fd34bfdaa8613e12651bdd0d57df1fc7540c3406",
@@ -4762,7 +4608,6 @@
     "finalizeTransactionHash": "0xd1df68421efb673e538d7e1d29bb9d67b4175b0970a7b99184602eeed08c5952"
   },
   {
-    "_id": ObjectId("5cf86951ebb168913deea425"),
     "taskid": "0x7ce0f60923ffc01eee5259cbf0f3adef3a228d0cd10fd6dce0ce65a44db98380",
     "status": "3",
     "dealid": "0x28995bb1b5cdc9ee718a7e0d7700b7c73158f34d0ee69613cef03c15a0d71a20",
@@ -4793,7 +4638,6 @@
     "finalizeTransactionHash": "0x3f5f03c46be3ac53127d4fed7ad0ac06e3f831eaef352c57a339263d45d8219d"
   },
   {
-    "_id": ObjectId("5cf86ab0ebb168913deea955"),
     "taskid": "0xb8181d07b93c4f13c681a3e68e3f80220e7e323cfc0b9317b3148bb176c1cc55",
     "status": "3",
     "dealid": "0xec275aa6655a31831cd77a85f4061440f0d8f6547512418fc382e1452a280ece",
@@ -4824,7 +4668,6 @@
     "finalizeTransactionHash": "0x2129a9e3d054df19fae0f5fd7441133fa63edf86c34dd8a44594fe05c748f373"
   },
   {
-    "_id": ObjectId("5cf86c3cebb168913deeaf5a"),
     "taskid": "0x11207e7f5935adc8c9e69537fd7adb8fcab48b88444e979a018971b60d313ba8",
     "status": "3",
     "dealid": "0xb567b32feab60eb14651c7f94a8a02739cfe43fd1533d505f7601dd3da076b5f",
@@ -4855,7 +4698,6 @@
     "finalizeTransactionHash": "0x0857129aab4b5da3b84ecd0757de6b3db973673a8e36ae527ccda4446a306467"
   },
   {
-    "_id": ObjectId("5cf86d98ebb168913deeb472"),
     "taskid": "0x074fc5a54c3845eae40396521f5edbd9055fcd64a681fa458d879db9ad1dc184",
     "status": "3",
     "dealid": "0x30eff42d402d4abf07247b61888f15d7cfa600d2ee1d876cfc7855fbcefcfdf1",
@@ -4886,7 +4728,6 @@
     "finalizeTransactionHash": "0x644919ebef8cdec3f97a4f4c3115066a3d7ee4298d01bbf3a75417e7cea6d885"
   },
   {
-    "_id": ObjectId("5cf86f35ebb168913deeba54"),
     "taskid": "0x57e52c0bf66ea85c5b926e7fc631c02bc2440762c4a45d6ecc8b4990bd122353",
     "status": "3",
     "dealid": "0x7680a12330e13f2ebf6fc5e66329c9f7ca01a2ce3924d972bb1eae7fb440d9ae",
@@ -4917,7 +4758,6 @@
     "finalizeTransactionHash": "0x2303039ca2ef0ceaed076e570be40d7b967b5f2dc54c24aca7122fa8d5db34c0"
   },
   {
-    "_id": ObjectId("5cf870bdebb168913deec02f"),
     "taskid": "0x6b190cc46b0e28d60db20c4f5be6e4d3d92b9378ca831ddb9d31efe3a8f32495",
     "status": "3",
     "dealid": "0x77d7fad29ae3a8524d560754d7d11a27421f455f7dce7b2ed25a4eb9d625b999",
@@ -4948,7 +4788,6 @@
     "finalizeTransactionHash": "0x2f1a0a82c0f1fb992926f2682d3fe3eb2cdd89543a049a97f9ff5c9a469c9ec6"
   },
   {
-    "_id": ObjectId("5cf87217ebb168913deec628"),
     "taskid": "0xcf9179311099b742844dd42fa37c7d89d87de841b57f889ce70636fae3d7d561",
     "status": "3",
     "dealid": "0x0b7b2b83eecc1946f53801c5b691bc8b2326286e343037b19c76c8383ed5ce92",
@@ -4979,7 +4818,6 @@
     "finalizeTransactionHash": "0x6f87204981a5a2f014ec9d66440fa9c88d56d5c8f8d4d5a73b6b308cb1b5205d"
   },
   {
-    "_id": ObjectId("5cf87366ebb168913deecb12"),
     "taskid": "0x54855187d6728bc8f77c2a8c44cae367b38b63bf48bd340c2a2894dc748b5422",
     "status": "3",
     "dealid": "0xb9e12dba044e9f109b5e335cd3c418cf4b8e54b2e23b46aad45a74056141cb46",
@@ -5010,7 +4848,6 @@
     "finalizeTransactionHash": "0xef306ed03adec4b55d9ba45eda6277e1f7aaa82275a69e8b934e84b21c98cf66"
   },
   {
-    "_id": ObjectId("5cf874c5ebb168913deed03f"),
     "taskid": "0x8bff9f68f676b8c48e21025079c9525866e8048fd8f2f4e4c03622749c7204be",
     "status": "3",
     "dealid": "0xd1a4663bc04a3f0a5440ddef248694345289cc258d2a040c7408351e4e63ba63",
@@ -5041,7 +4878,6 @@
     "finalizeTransactionHash": "0x0fa03494fee4d2e94fab515b9dd883dfc68ecae4e1194f7a070d5697090692ff"
   },
   {
-    "_id": ObjectId("5cf87621ebb168913deed53e"),
     "taskid": "0x57243311c8bc0bd3b4879262162c1553fc088d0e42fa475ef12fe4e8f43207cb",
     "status": "3",
     "dealid": "0x5d48ebdd7aa30d04166bf8d480ab02d859d0de6d803ade41bbb7832e768228ba",
@@ -5072,7 +4908,6 @@
     "finalizeTransactionHash": "0x7b63ea2cbc0b58b64b5571dd4991cdda03cfe1a5c62486b9044fdbc3375718ac"
   },
   {
-    "_id": ObjectId("5cf877b2ebb168913deedb07"),
     "taskid": "0x7278e8588381be9de31e00fa5448ae4e3ba12856e3ce0adc52be8f195ace3e32",
     "status": "3",
     "dealid": "0x673256b50af85a7b8a94fc3f0616b61b747e2378dc22e16934c641becc27fe31",
@@ -5103,7 +4938,6 @@
     "finalizeTransactionHash": "0xb74d61774daa547a096ac2504c8175472549cbc1a241330be1fbfcc07b622f9e"
   },
   {
-    "_id": ObjectId("5cf8791aebb168913deee052"),
     "taskid": "0xa872b4b9d620853194df331c2106478b800cf3c9f515a370e15ea1e55a236e57",
     "status": "3",
     "dealid": "0xd5bd9cd7f43b702d02bbd6f6e59422174e00b39367fc9ecd88a15f5dc90d2b0c",
@@ -5134,7 +4968,6 @@
     "finalizeTransactionHash": "0xd811896e22c7215e1dc4dbd127ba9deb0bbc4268775ae59ca79c4fb31ab48d65"
   },
   {
-    "_id": ObjectId("5cf87a8febb168913deee5ba"),
     "taskid": "0x4666f386915a28eb2797a0496ee478eced70ff0d4d250294a5a819a4dceecd84",
     "status": "3",
     "dealid": "0x3119e25f75c90e46bdd1c6187e83f8975af92691fa4bab64296efc4303df479c",
@@ -5165,7 +4998,6 @@
     "finalizeTransactionHash": "0x46dfd4c6c4f1a914c5a25608e5ded9801a2084414575869329305ad4a839c762"
   },
   {
-    "_id": ObjectId("5cf87bf2ebb168913deeeae5"),
     "taskid": "0x849f185dd661d70afb43b9bd3ecef76af3ec1f3ac9492974f0bd379bae100ef4",
     "status": "3",
     "dealid": "0x947520a477986bdce4938d76500604cc0e88438ebcd6e4ccede9d0ee356011e4",
@@ -5196,7 +5028,6 @@
     "finalizeTransactionHash": "0xed843eedbcf5632533c6fa748948814dcb1337c2d44fcc737e158657f90a8f0d"
   },
   {
-    "_id": ObjectId("5cf87d55ebb168913deef00a"),
     "taskid": "0x8928329441df6981025aa202bfe50bc8c8beba2782020a66a36daf867ef2fe9f",
     "status": "3",
     "dealid": "0x95d37ef2e949da5957ead38b470e4307c345332df71ceef486baccc10e8076f0",
@@ -5227,7 +5058,6 @@
     "finalizeTransactionHash": "0xb8a538952c4b1454a5a8f352ce23154064044f828ead2fa029b4c113b292ce78"
   },
   {
-    "_id": ObjectId("5cf87eafebb168913deef501"),
     "taskid": "0x264dd684dfa275109d4bd9ce1ee278692fc85b2d8d831e36cc90aa25df6c2e6e",
     "status": "3",
     "dealid": "0x66bfb3124c84d488e24d2333abe4a86ea80c28368b25cefa3eea59bc3a0c80b2",
@@ -5258,7 +5088,6 @@
     "finalizeTransactionHash": "0xa5760a439b5386496227e9cc02129300bbf1b0d446e859a7e50949e91b1a9b64"
   },
   {
-    "_id": ObjectId("5cf8800aebb168913deefa0a"),
     "taskid": "0x49baa978a2c58384f1fe483dfbe8ea43a6f2cec4ceed03ec9fb7142c19659fa4",
     "status": "3",
     "dealid": "0x5b062c2e611d41aa251ec979c46e601aa512b79a325d9c69f5087955eeb0fb21",
@@ -5289,7 +5118,6 @@
     "finalizeTransactionHash": "0xc98b0cfb7b86efe70e0a0f3d498abee15369b13eb2140ffb8b872f3a0b7845da"
   },
   {
-    "_id": ObjectId("5cf88164ebb168913deeff11"),
     "taskid": "0xde4cab3d22cefd66a7db91c94df4125ce66b98938b1d33c490002dbbeaa7b339",
     "status": "3",
     "dealid": "0xa81d525691e3c61fa7ab2b853d15382d799fb4c109c759369b77c3175ad0a614",
@@ -5320,7 +5148,6 @@
     "finalizeTransactionHash": "0xe2b2a5794150b8acea5a0ab247ded5753e0e5399acf730164c59ac57b9d1633b"
   },
   {
-    "_id": ObjectId("5cf882d7ebb168913def0495"),
     "taskid": "0x98ab5c28186d95a4e319cadc64d61ecdc427d9140d210e8ccd7e5110a2bb9e98",
     "status": "3",
     "dealid": "0xc86d5a568b82e0855ade4f6bdeb1fb52b161c522b805a56bb514c6effea3c42c",
@@ -5351,7 +5178,6 @@
     "finalizeTransactionHash": "0x40af2bd99a8f2422a1d543a90b34cc30618eeab5d70ab5d5c898a2253229b996"
   },
   {
-    "_id": ObjectId("5cf88445ebb168913def09e6"),
     "taskid": "0x72ee75ebfd9d5f97d2bb8f6b27448a516042ca6919cc8d34f6b9ce25ce2b6b5b",
     "status": "3",
     "dealid": "0x2167cf690c6d5418f6eb5f63ffe51cd5c675dffbdf30edf663dd62f766e5c786",
@@ -5382,7 +5208,6 @@
     "finalizeTransactionHash": "0x3ac8cf8932ba9baae37333c6447bba0127343be2a805a426b621b2bdb66227cf"
   },
   {
-    "_id": ObjectId("5cf885baebb168913def0f85"),
     "taskid": "0x02b237b33a79caa5efddc275d5064413348be03e372b5c2acb0902776aab7a01",
     "status": "3",
     "dealid": "0x2fafaa8dbd750f46b943f402ac2465731c97af27f1eefcab0efd4e1ae38e235b",
@@ -5413,7 +5238,6 @@
     "finalizeTransactionHash": "0x7545db2cd76ddb52fd4a488d708aa6082c554b06a9a46d5a398d7d2be7fb588c"
   },
   {
-    "_id": ObjectId("5cf8875cebb168913def15a7"),
     "taskid": "0x3283cae71dd38aba652f15f402d39a409a54eea279bf8729a91b1f1fee927ef2",
     "status": "3",
     "dealid": "0x613bf7423ef1d07b47bfc94e02e5433ab5f6c9cd0d6781e058eb2718483101fc",
@@ -5444,7 +5268,6 @@
     "finalizeTransactionHash": "0x3095ffa03f651a4a6984c16ea7e4406ab63d9bd797601a5ef791271deef48733"
   },
   {
-    "_id": ObjectId("5cf88867ebb168913def1992"),
     "taskid": "0xc1367719efe7168fbac43e618c255a369bec92aab9c3672cc9f0cd325ef7eeb0",
     "status": "3",
     "dealid": "0x9716dfd1f4a78db296d1941fa500ba9a316be0c0cc2f54b3a93c482dce71aac7",
@@ -5475,7 +5298,6 @@
     "finalizeTransactionHash": "0xacab13d16475d5a3b61ac5866028bb9f2f4fddca1d8a47d25bca436070ec4f32"
   },
   {
-    "_id": ObjectId("5cf889c5ebb168913def1eb3"),
     "taskid": "0xda6439fc4a84bf2a9f156ec88f4c1dc115bc029507b40b0212556c716bcf6f42",
     "status": "3",
     "dealid": "0x9f40831ea553b814607498145d92d93af78dfdf8c8b3fdb778b80a9655eba3d4",
@@ -5506,7 +5328,6 @@
     "finalizeTransactionHash": "0x0e198ce54eacd6bca9ab2db57322d8b20c3e805bea24b6b45b7147844679243e"
   },
   {
-    "_id": ObjectId("5cf88b54ebb168913def245d"),
     "taskid": "0xde1b498fe1f5cf6d048f59fdb0ffb18edeb796212ad55730ed2af9363213e834",
     "status": "3",
     "dealid": "0x5be1a1bfef948bb923ebdfd5896708aeda5cc1e2e29c278791616b4c2ca5a461",
@@ -5537,7 +5358,6 @@
     "finalizeTransactionHash": "0x4237be26771b45526f73ee82dc0561cb3ca39c623ad4d52d1d5bf6a2ca99d48e"
   },
   {
-    "_id": ObjectId("5cf88c81ebb168913def28c6"),
     "taskid": "0x04924e5c79841f25595c606ac0cf83dc1400a7a3bec50b4e47224e1d2b9547ed",
     "status": "3",
     "dealid": "0x7f8548c88d6cd7013f43a9c3fcd1fa57ff601d728a83765754f943c015ef6c00",
@@ -5568,7 +5388,6 @@
     "finalizeTransactionHash": "0xecfbb8ff1269b5a58ac430a9048927f6939a8a48e3b2d4a4d74171c2f460fb0a"
   },
   {
-    "_id": ObjectId("5cf88dccebb168913def2dc4"),
     "taskid": "0x5366f8a4fc5335351358303363d074052b33194f0df0a46f19a0550527d3bea1",
     "status": "3",
     "dealid": "0xc09a01e313724baac34511316af8304885354e27f5887e0eed8f0f4dd30e0d99",
@@ -5599,7 +5418,6 @@
     "finalizeTransactionHash": "0xff422d531fc304884174a54a11f368e586ea68e0bf02dac6734d9b73b174efc0"
   },
   {
-    "_id": ObjectId("5cf88f13ebb168913def32a2"),
     "taskid": "0xd567fc081b9da17706a8bcf46abc883b0ec6be58b8a43fafb5118fa97480398d",
     "status": "3",
     "dealid": "0xaf69951583a87aef9d81f4da144d759935551c48e977200b1824695bf4bf0b4d",
@@ -5630,7 +5448,6 @@
     "finalizeTransactionHash": "0x61fbfc19f3356ec802a06716ebd0637a0a8a6428425bbdc2699d77c84cdcb108"
   },
   {
-    "_id": ObjectId("5cf890c4ebb168913def38cf"),
     "taskid": "0xeb5b5446e3aeacf743b1edf27b88d60a403c0d97650153b35dd38349c077876c",
     "status": "3",
     "dealid": "0x0f6106cae0ba25e48d17c36696a816439636b50b6501b43115f2cb5bb039e562",
@@ -5661,7 +5478,6 @@
     "finalizeTransactionHash": "0x840fc5fbde72caa1583a91b5cb692f5b119f4bd033060f33faa3d96dd2c54756"
   },
   {
-    "_id": ObjectId("5cf8923bebb168913def3e69"),
     "taskid": "0x17c33e5e2dff38c991ef58bbaa7fbf2d71429940895ce77ae76134d5f3351db7",
     "status": "3",
     "dealid": "0x06dc83a5d42bb8d588efe35c606d1260b1e4487b4a1e1201fdd74f287a1093e4",
@@ -5692,7 +5508,6 @@
     "finalizeTransactionHash": "0x4ea30fa78d76e31e1a83befe6149690435728bbd43c98f49936f7fd58c056dc9"
   },
   {
-    "_id": ObjectId("5cf89393ebb168913def437b"),
     "taskid": "0xc76c38b81376cc22295e6f86510dc464fd8b285a38524966ad2559610012b2a7",
     "status": "3",
     "dealid": "0xc2820b6117912a709b5c9712118851583fa78d3d9f95532d4aaf4bdc5a91f92d",
@@ -5723,7 +5538,6 @@
     "finalizeTransactionHash": "0x1f7963ef543af713f5680e5e8c840544adc11566d81d09a12a23149cb8ec3ba2"
   },
   {
-    "_id": ObjectId("5cf894e5ebb168913def486a"),
     "taskid": "0x63d7776cf5a2c8a314283cc427674d2479a641ba29e3281c1ea5f050f3eaa0d5",
     "status": "3",
     "dealid": "0x6bb589ec6d6e75e51c9f5aee459dc041cdb78e1fafa58f64d48bc42adce758c7",
@@ -5754,7 +5568,6 @@
     "finalizeTransactionHash": "0x48cf889a9db97c42485b58059acad756238e8be5f0e8c1383ba08d3e3bdf4cf9"
   },
   {
-    "_id": ObjectId("5cf89648ebb168913def4d99"),
     "taskid": "0x60769ae3d46deb599293bae64346db5e9aa6d32136ddc3179967ea688ce9de43",
     "status": "3",
     "dealid": "0xa01bcdfc27fe8a526a4cabbca6c4f105b2002ccd616980adc4ebe501a9e85fab",
@@ -5785,7 +5598,6 @@
     "finalizeTransactionHash": "0xf6ee4051e18a02153e25c393c6f119679a0c810e72785b68e10268474590f44f"
   },
   {
-    "_id": ObjectId("5cf897bbebb168913def530d"),
     "taskid": "0xfce0eefcddf79c27e29ccdbcfa36e694be3bac36fb5086d873451a28c4c39fc0",
     "status": "3",
     "dealid": "0x6d4e45df1bc12cb4e48972261f2866ba8f811141dffe8f8910adf44eb7b6a559",
@@ -5816,7 +5628,6 @@
     "finalizeTransactionHash": "0xd2546eee38547da60c949ab3644cf00659abbb3494e6df15762ef5e20a75ce14"
   },
   {
-    "_id": ObjectId("5cf8992aebb168913def5858"),
     "taskid": "0x49a18483e513567de620c90fcde3649b2520f69956f80f7f22f50f0c7bc1783d",
     "status": "3",
     "dealid": "0x495215b5b0fde1e507be81462892df78ba084f92695cb3728225935bbe2c1584",
@@ -5847,7 +5658,6 @@
     "finalizeTransactionHash": "0xb747de45c89e5aa3a0c9f044241ea5d8dad0571b308319e0fe9f06f2c607cf0e"
   },
   {
-    "_id": ObjectId("5cf89a7cebb168913def5d4e"),
     "taskid": "0xbbaea4e3240dc5e7d635942c4bf43d10334ee894ee7274e5d8fc77a02ce11264",
     "status": "3",
     "dealid": "0x236143795380c17f60848553c2a977e0ddeee4e807a1f69cc34a0d3fafcdf2c7",
@@ -5878,7 +5688,6 @@
     "finalizeTransactionHash": "0x95f4b26aa4a7f466c872f43650ccb9f69bd23b0fa350ace15349d823bda1b4f2"
   },
   {
-    "_id": ObjectId("5cf89be2ebb168913def62b4"),
     "taskid": "0x603d279e31ec3b90171dad5fee114ce42311f89f28e75fe65cbdde552008387c",
     "status": "2",
     "dealid": "0x766fc4c51a1960c88bc50b534ac269f7f3855c909ca501fb78a9b5edfb75e458",
@@ -5906,7 +5715,6 @@
     "consensusTransactionHash": "0xe32deb52441f7766356f9cc1e6939b7bb597ff88956bdd05fff2fe54702a3707"
   },
   {
-    "_id": ObjectId("5cf89d39ebb168913def67a1"),
     "taskid": "0x52eedfe1fac11912f132e7ca13636c0be274ce88c74af845650f79cfd484fd49",
     "status": "3",
     "dealid": "0x41529b40bca9b2fa92ae491fd18fa205d3bc8322899839bdacfdf9b0c14420ae",
@@ -5937,7 +5745,6 @@
     "finalizeTransactionHash": "0x47717001f7accfce67819849750a7e98e290ac3e111160e86df7172e39e68978"
   },
   {
-    "_id": ObjectId("5cf89e9bebb168913def6d86"),
     "taskid": "0x621982d5a89c5c64df415544fae999e7ae0edffe1df6318fe5c2e71b8a7f5c88",
     "status": "3",
     "dealid": "0xbe1b8ddb2fcfffec1b8d5f26d5c7c4d513debcb06642d3b9b7cb93383fdac10f",
@@ -5968,7 +5775,6 @@
     "finalizeTransactionHash": "0x8da08663e038ad5ef674cd82032d2c3c2eea5f5e37d65476db0a461b63d1dbe2"
   },
   {
-    "_id": ObjectId("5cf8a018ebb168913def72f3"),
     "taskid": "0x372324e49c350aca799ddb686641f711a84c7202998be467ea2497ed0f1b1e47",
     "status": "3",
     "dealid": "0x4d8a608c54fb57c0697a224d88a3db4e3a9f6b3975d4cb8cea947ca24780ddff",
@@ -5999,7 +5805,6 @@
     "finalizeTransactionHash": "0x47d4e9bb18ac8f7f33040c9ca910115e0dd4849b575fc5022ebcb170533c68b4"
   },
   {
-    "_id": ObjectId("5cf8a135ebb168913def84c2"),
     "taskid": "0x30a7471a0fdb6cfe054078f8310aaacf9cf8b02556bc544062474976d66a24c3",
     "status": "3",
     "dealid": "0x08dada57453398750440e35df02479497612775cca512008f195eee4a45a5855",
@@ -6030,7 +5835,6 @@
     "finalizeTransactionHash": "0x329e7270dda64fdfc5451b9cdeb34482968e018a92e33a868ec4e88d1c77360d"
   },
   {
-    "_id": ObjectId("5cf8a2afebb168913def8a30"),
     "taskid": "0x2860870ae99dc20d0e18d211fa308564a7f55990186249d6b7b1bca5270c4887",
     "status": "3",
     "dealid": "0x2f61d8d78e48648a3695c1e06a78cf255182c3b801e3f0fd0825af735ddccb93",
@@ -6061,7 +5865,6 @@
     "finalizeTransactionHash": "0x2730db66ed648d1435b44e7132333b3c0093fb1cb8aa4c5d34b5e03aeb09edd7"
   },
   {
-    "_id": ObjectId("5cf8a41febb168913def8f69"),
     "taskid": "0x2a85db204350c85db05349003df85b3aa9ec846c985c36ca48d8bdacb98a5223",
     "status": "3",
     "dealid": "0x305385132ebfbd7dcd85ccc3cbd7143a2eb1678dbd049a257647384ddad1d2bd",
@@ -6092,7 +5895,6 @@
     "finalizeTransactionHash": "0x478cd863b2e9e0d94c25e8c71645497003fafc1cb75a1e840c0684965e8757c9"
   },
   {
-    "_id": ObjectId("5cf8a56bebb168913def948d"),
     "taskid": "0x748c542fda567c742ee10786e49fec01bce4bc8bb9a05b9a779d3f098ed56ec8",
     "status": "3",
     "dealid": "0x0e743d95b6f31d884a1fbd30e04441b78acf3574d1b33bdbc80aee472ce05834",
@@ -6123,7 +5925,6 @@
     "finalizeTransactionHash": "0x6431293b5f43e7a112cf2731557b1582b7af2ab037dfa062df0ff2493e4fd75e"
   },
   {
-    "_id": ObjectId("5cf8a6d2ebb168913def99e9"),
     "taskid": "0x647e9c996374d13079e48b005042071906908d82c0c24672af271cf4542363a6",
     "status": "3",
     "dealid": "0x4c23962c848222566f1b6ebfacbfb8a2d15592f9cd81d1deeb969875a3725eb9",
@@ -6154,7 +5955,6 @@
     "finalizeTransactionHash": "0x5d96f408928835ffe890ac8eb6ef4415fbc894aa63374fc37e2270443b7d0ce0"
   },
   {
-    "_id": ObjectId("5cf8a833ebb168913def9efb"),
     "taskid": "0x0b8b69cf5e3bfa3154a8d2cb645cf93020df625e487e707990de6af59de716bd",
     "status": "3",
     "dealid": "0x4724d7484d0b3e53bef5567f9e8fee2c0d9705cdd09364beed5d42c4cd63ab74",
@@ -6185,7 +5985,6 @@
     "finalizeTransactionHash": "0x293b79e7ff10c4914f34a95b8a3907641967202526234b51632527a73289ac87"
   },
   {
-    "_id": ObjectId("5cf8a9b1ebb168913defa499"),
     "taskid": "0xba83baa757254f5dac62778d2f87b7f3e425159b13def5637e6a9415494b8a40",
     "status": "3",
     "dealid": "0xf49fe0a9f0782dfd1b26122320e99dd05e7ff35bffeef0adac1e4874a8c4e1b7",
@@ -6216,7 +6015,6 @@
     "finalizeTransactionHash": "0x8949dda3edf6e03963e813853dc0c80623110965ed4e92beb0c3ef955ee1c7fe"
   },
   {
-    "_id": ObjectId("5cf8ab85ebb168913defab50"),
     "taskid": "0xa9bc878c890ca6f2db3ca374f903fa732eaa1134f05b6496d8e5400d6d9f0385",
     "status": "3",
     "dealid": "0xaf85a2b3668c7ea9aa060d7b20a15abe21b3beb06eea100141a0a4a070276756",
@@ -6247,7 +6045,6 @@
     "finalizeTransactionHash": "0x33e926d4e2c30cc3c322e19fc494b7e3567c46ea90f3a73bfb10d7e3ac64b766"
   },
   {
-    "_id": ObjectId("5cf8ac67ebb168913defaf1b"),
     "taskid": "0x9ee81f1136fe0ab4bf0c6c5a7ed96094ff7639ebabbf5a2124e776c3e961dc57",
     "status": "3",
     "dealid": "0x0fbaa582bcdd0edeb47053d330e9e62f9297063d987c4e68a655b38c2e135f48",
@@ -6278,7 +6075,6 @@
     "finalizeTransactionHash": "0x5515cc5abe28f6c9db8e37ebeeaa348639b608aed643f91be873037740fdaae9"
   },
   {
-    "_id": ObjectId("5cf8ae08ebb168913defb53f"),
     "taskid": "0x4242adebd483165ddaccf8b6940104ce0ed5da168004a522f2e37a1b70da91aa",
     "status": "3",
     "dealid": "0xe5b846881a87d3828f0e3a6f5151267adac74c73615a736ffb2c51658800953f",
@@ -6309,7 +6105,6 @@
     "finalizeTransactionHash": "0x36ad006d67a46227ae1a76530a5d33425c9e84618e0233dc4fbadb7ae13b786c"
   },
   {
-    "_id": ObjectId("5cf8af69ebb168913defba82"),
     "taskid": "0xcbf1b4bf890183c340411d75b987be284690d16901742c934bdfafec36f6e773",
     "status": "3",
     "dealid": "0x8976907e3838d859802e9217e0d3f1382c6bf3e4ec2eedceb040b57e885cafd5",
@@ -6340,7 +6135,6 @@
     "finalizeTransactionHash": "0x20c445136f3f04b3464e24d300b9d9d179f189ed95a2d50e803d8a93996e7f56"
   },
   {
-    "_id": ObjectId("5cf8b0d3ebb168913defbfbb"),
     "taskid": "0x778851d25f28599a95918ae59e18a63a8112c022576cfb072ab37b5c078afded",
     "status": "3",
     "dealid": "0xd5e49155770f2a59a2bd8489a681419477a16acd3f046404222ee979a7d84767",
@@ -6371,7 +6165,6 @@
     "finalizeTransactionHash": "0x5b69e31f3f39ffee33208e4f7f5a356dcd5c9006f592a319885a829b678e7c9d"
   },
   {
-    "_id": ObjectId("5cf8b239ebb168913defc4d9"),
     "taskid": "0x83a42a314b6785ccb1b4ba7af5dbb7d8231dbfbab8994948f85f265ffd043c52",
     "status": "3",
     "dealid": "0x20bc236f937b6f1175f5be5ff8735648d71d7c035a688019763768a2e94773b9",
@@ -6402,7 +6195,6 @@
     "finalizeTransactionHash": "0x2f5eb153a8d58d3d07e2883af4af9856e8f179e50f0efeff741cd18e448f5405"
   },
   {
-    "_id": ObjectId("5cf8b38cebb168913defca1b"),
     "taskid": "0x063e19dc94f296aa2a1d5ebc0ab6baddc0cd5719c38c2ab6d79538f193ec51e3",
     "status": "3",
     "dealid": "0xfd263d1263a98a825ea2c759d1f466082af0ce4a74da25dbfbb41c795eadb6cc",
@@ -6433,7 +6225,6 @@
     "finalizeTransactionHash": "0xcf34caee57ace8d877dced451a5a7f53c1a421faac30db9c1fa7e7436c44451a"
   },
   {
-    "_id": ObjectId("5cf8b4e9ebb168913defcf32"),
     "taskid": "0xde189f74053b35fc1411bb2edfc07dfaefc3cd093bc51f7806d10f8a6d0c74cc",
     "status": "3",
     "dealid": "0xfccbae2dbd0b6b0615307ec18c15c8a3096207fc8a9315d788a11e41844572d0",
@@ -6464,7 +6255,6 @@
     "finalizeTransactionHash": "0x084028282c831fd7be1dbe3e98b2545e1be20a1ac08f1e9656d8885451e3f224"
   },
   {
-    "_id": ObjectId("5cf8b642ebb168913defd433"),
     "taskid": "0x92da288f8ba599c1df255b3d6b21b90a932acccebe01ffe6cb880bf50fab23fb",
     "status": "3",
     "dealid": "0xcf620d4167330ccf56949fa757d512207cd3e04368adea222acdcbbbc4857439",
@@ -6495,7 +6285,6 @@
     "finalizeTransactionHash": "0x291f0a5d5a3502549d4fc877163fea982bce1b83dc20430230befbc7154cdc7b"
   },
   {
-    "_id": ObjectId("5cf8b78eebb168913defd904"),
     "taskid": "0x3500c3817a61113671a88fea167e3a1332c9d1ba711103fccbe17d7aef73104a",
     "status": "3",
     "dealid": "0x7e22b2ac1459e2a44e3cb63e13722d0c0a083ab45cb87715c3c444a2375b0649",
@@ -6526,7 +6315,6 @@
     "finalizeTransactionHash": "0x3d9abc0d7ccf2495a92a1dc3bc8e522847c16abe78580cafc11c33f189b9c427"
   },
   {
-    "_id": ObjectId("5cf8b8ddebb168913defdde8"),
     "taskid": "0x8c6c57797a3831782eadc7d3b95254460aac6f372fbbd9a62027dc5474343fcd",
     "status": "3",
     "dealid": "0x4993d921682d0b68167432bf542b03558d1663edcad2d221f732b14569b88b4d",
@@ -6557,7 +6345,6 @@
     "finalizeTransactionHash": "0xf5860e75abaebd411a8c403cac9d2e5778c7014446b756540436216ed13dc035"
   },
   {
-    "_id": ObjectId("5cf8ba5febb168913defe378"),
     "taskid": "0xb66eec6fd0efd42c83d19c21156a026f2e546709ed30efe4a741310bd5a49c60",
     "status": "3",
     "dealid": "0xc9caa02ec8d58ee71f166807f20ae9d6d5da919c1ca6e7bc3bda2950d1779f11",
@@ -6588,7 +6375,6 @@
     "finalizeTransactionHash": "0xc10e3fa7a07e4ed29f6c371cb4e0dc204e91d224797fbc1599121357a2fa50ef"
   },
   {
-    "_id": ObjectId("5cf8bba9ebb168913defe82f"),
     "taskid": "0x412c3dacb392ae1bc3f83be70765c4842cc4a57ab6b4ff3a5c96e708f4dd7af9",
     "status": "3",
     "dealid": "0x013ed4d48bdc42caccf56a5ea193b6ec58d61fee08731469962f085e2207f70b",
@@ -6619,7 +6405,6 @@
     "finalizeTransactionHash": "0x821753ba2ddb20d8d66a454c22940a3d600a97e7dc451cfb679aa35d749d7bee"
   },
   {
-    "_id": ObjectId("5cf8bd4debb168913defee9c"),
     "taskid": "0x06c12379de5658b47202e2a3042a27b49187f120bee3bba13bd2e8efc35907e7",
     "status": "3",
     "dealid": "0x432059a4760768b7dd090d6772b09fa4605a84cb1de591ac2a745ae35f96beb1",
@@ -6650,7 +6435,6 @@
     "finalizeTransactionHash": "0xb5ef9e9fa09c2eae9674958d7c4540ecc7a9f9ad52eddbe5cf5c6bcc4d2bcfc8"
   },
   {
-    "_id": ObjectId("5cf8beabebb168913deff42d"),
     "taskid": "0xcf1f40fe735459c3fa539540f67d263daadffa1821a5027606f82495ebff5fe3",
     "status": "3",
     "dealid": "0x306cdce6e1d564a1d5ec5d201e185b1d2ce7bcd59069982d49a3abb1c3babad3",
@@ -6681,7 +6465,6 @@
     "finalizeTransactionHash": "0xea11f3873b78c50590744e0b340fea770bb64144e875215e6eea751275d95b14"
   },
   {
-    "_id": ObjectId("5cf8c000ebb168913deff923"),
     "taskid": "0xcdad9df55e162a080422aef2e6ccc4b890fc02140ecffd762077d59a5eb4fa6f",
     "status": "3",
     "dealid": "0x36b509519a798e8f26171cf7b500cc597ce3d1f12a27d2fed3d8f1e9d817c1cd",
@@ -6712,7 +6495,6 @@
     "finalizeTransactionHash": "0xec77d509dc3a5d9799aa87a75dc1e942b5bd61c4a5f51de5dc6a67210455f8c7"
   },
   {
-    "_id": ObjectId("5cf8c160ebb168913deffe53"),
     "taskid": "0x06b4592a3c4852b70d57e26332d58fd6c19cb5822636239133380a56946ae274",
     "status": "3",
     "dealid": "0xd8c590b05b9a82ece9309566caa8c4c744a0021d7d43c21d7d73a36babb5b47f",
@@ -6743,7 +6525,6 @@
     "finalizeTransactionHash": "0x3432e415c99cb37e453418aa28725ed06f40acc7f887b27e18ed5cf6cee211cd"
   },
   {
-    "_id": ObjectId("5cf8c2a9ebb168913df0033f"),
     "taskid": "0x19fbbf7c0f8ab205fec135d97032c471c82c896d0b3b8d299772143cd60056a6",
     "status": "3",
     "dealid": "0xe8fc48e48bddc706f2e55f96d9119926d732d696ce3c7ddf42aa966be4833242",
@@ -6774,7 +6555,6 @@
     "finalizeTransactionHash": "0x0f26bf4d04f52a8b17889677c78f75e2a366bd197167f0508ac8d2e17ffeaa34"
   },
   {
-    "_id": ObjectId("5cf8c444ebb168913df00938"),
     "taskid": "0xac01981aa9e6a9e040b229e096e359350a309688493caeb6a59a063d05a9b2b5",
     "status": "3",
     "dealid": "0x8efde48edc29c34753f855b19cf44a765007492c582251b89c935625b528028a",
@@ -6805,7 +6585,6 @@
     "finalizeTransactionHash": "0xc927dc44248534347edde04ccd3a6c0c18250d7bf9be4fd6bdde4d6558210c83"
   },
   {
-    "_id": ObjectId("5cf8c586ebb168913df00e1c"),
     "taskid": "0xeeed0af84a3bd71d82e0463461172ec2c824096b0df51cc999d4b85b46ccc964",
     "status": "3",
     "dealid": "0x76a7a33e9e5ed31238cbd1a799f33a47470e75df25b34ec8567b6a62df7fe8f0",
@@ -6836,7 +6615,6 @@
     "finalizeTransactionHash": "0x45c865f63cd6fcfa1ca4d9b5fa175fed698468584531036899dec261695ddd6a"
   },
   {
-    "_id": ObjectId("5cf8c6eeebb168913df01366"),
     "taskid": "0x1e2a24028ccedf48326052152750b27a5f409b276f7abe9732fc3b04f21cef79",
     "status": "3",
     "dealid": "0x69c94f956583dcad0c9a0602e22b963d6904ce328131803a10629f661a3aacca",
@@ -6867,7 +6645,6 @@
     "finalizeTransactionHash": "0xa8d1f035e5b5524694d64ee2ebd89acfb04ba116e12f14458e5f2fad6fae41b6"
   },
   {
-    "_id": ObjectId("5cf8c8c9ebb168913df01ab6"),
     "taskid": "0x232181be16d1598e236d7a01aa32179025f5e1f99c2e963bf2c327a8d0bc1c08",
     "status": "3",
     "dealid": "0x4d43adba680f244b09471f77c8a21687ce471684b4b98a0fd72e54df714fb6f1",
@@ -6898,7 +6675,6 @@
     "finalizeTransactionHash": "0x6d6f14fdc55d6320b8ad27ffdad2f8310006a23b402b825834cdfd5a9bbd306f"
   },
   {
-    "_id": ObjectId("5cf8c9fcebb168913df01f4b"),
     "taskid": "0xa2505780588eca8a950f64c26c648eeaa4db96c59e8e427991d42a5a968e9eb9",
     "status": "3",
     "dealid": "0x5da664bca9deb385b2ec6cad3a4b628120abc34ac05f977b10a3af5875404df7",
@@ -6929,7 +6705,6 @@
     "finalizeTransactionHash": "0x0e44e447341d04e29d0fc85ccf188266e751b59dac2e108386cc7facac0bdffd"
   },
   {
-    "_id": ObjectId("5cf8cb85ebb168913df0251a"),
     "taskid": "0x81cd763510adac52034ebbf2a432c9247498b2adc3a3e88374c8583b44b8540e",
     "status": "3",
     "dealid": "0x3b39ba8e1adafb72d7cffe9885243226f0e58c50a4d18c5a0837a4b0e88cd3e4",
@@ -6960,7 +6735,6 @@
     "finalizeTransactionHash": "0xc63037a2be15df29c1df2cd20aba1eec7a5adddd655d27ed5e1d5622f816f793"
   },
   {
-    "_id": ObjectId("5cf8ccc2ebb168913df02ac0"),
     "taskid": "0xb8be9c0a1d01bc142cafa61d80687baa13e15766fcbd6e38fab9492cced9cae4",
     "status": "3",
     "dealid": "0x52a54c623f765def472885ea40e3db0f636d34100ee94c794fe6a56302c1b2aa",
@@ -6991,7 +6765,6 @@
     "finalizeTransactionHash": "0x88d63f0d877f8a9477e1f76ceae8d75dbc74c3365f453a60a1be0a79b1bc94af"
   },
   {
-    "_id": ObjectId("5cf8ce3eebb168913df03192"),
     "taskid": "0x32afcbabc7cdd7280dda77983481141af2b91eea4ecb7068baf8e8ed8212eb80",
     "status": "3",
     "dealid": "0xbf836acfa7a1ec995df6ca67bbab55d666c8babf7fd401eb84ba9fdc2286b181",
@@ -7022,7 +6795,6 @@
     "finalizeTransactionHash": "0x838025e20ca7c0903066fb5c072296be4db7d2986a6c930b7001ccd350b2d1e1"
   },
   {
-    "_id": ObjectId("5cf8cfe5ebb168913df0384d"),
     "taskid": "0xe7861b53fb9dae1f606fd4f8dea7dee25a922b0f229787e833c2bca11fed6f74",
     "status": "3",
     "dealid": "0xf3c0d985e394aa7aec2b94c2058c044232edc2c410ac99dd77e78d5044026361",
@@ -7053,7 +6825,6 @@
     "finalizeTransactionHash": "0x973697b1f230d2a3b5b7bd620536de043379b80a9303de00fb2afa35a2c151a7"
   },
   {
-    "_id": ObjectId("5cf8d198ebb168913df03ef2"),
     "taskid": "0x719f23197916051348404c83cff538e9dfeafeb9cf4b122cb159ee476314dbd9",
     "status": "2",
     "dealid": "0xb4fb9188c25af2fd146d995e5286c71274141c633d934cfc0755aa5b61ee4393",
@@ -7081,7 +6852,6 @@
     "consensusTransactionHash": "0x46db5062c873b6a47f197006035fdfd77f2d74d2c82a375b1dc965daae2608e8"
   },
   {
-    "_id": ObjectId("5cf8d379ebb168913df045ec"),
     "taskid": "0x6c031773f813f55ba57f716148bea1b20fd8cc0ab247d68a9ab3cb6bc45e3030",
     "status": "3",
     "dealid": "0x02554b85e4b912e8e1ee8a8b936f11daa6c4d97fb5313f7b056277bb4bfca18d",
@@ -7112,7 +6882,6 @@
     "finalizeTransactionHash": "0xbf6a10f43db960e8cee45cc4a471de7b73796c6a77519e1ecd541fc9f68b10e9"
   },
   {
-    "_id": ObjectId("5cf8d4ddebb168913df04b27"),
     "taskid": "0x9d51910ab4082634921cca44db7ab886fa71e843caff861ab740ed71797aee7f",
     "status": "3",
     "dealid": "0xd3857a3f89d72855b4bfa0467ec0ee277d1aa816b370ca515e98ad0ebacde239",
@@ -7143,7 +6912,6 @@
     "finalizeTransactionHash": "0x09e93c71162e4fe6d2515c9b2cbd3afbd6469bc66020c723dd21f7052d16e7f9"
   },
   {
-    "_id": ObjectId("5cf8d6acebb168913df0521e"),
     "taskid": "0x7269a60e68f0ce4df950a18d4a77c3101e48e749d89ea4b22a169065b4008aa8",
     "status": "3",
     "dealid": "0x5ef59be05f51ff3e248c1763c9f8cb71981ce9da023e22932472d790680b04cb",
@@ -7174,7 +6942,6 @@
     "finalizeTransactionHash": "0xa1f5a8f888e8af4a65caa2f197613bce0bcedff4fcef0169328a4c8571f1ce4e"
   },
   {
-    "_id": ObjectId("5cf8d885ebb168913df05980"),
     "taskid": "0xa0975035f840e479215417df77e46c2f1dce64c9a7b77db56d00d96fe9e431a3",
     "status": "3",
     "dealid": "0xd74e40f62b8fa3b21efe9683c5dbf411266cff67423f25440bfe07b66cf689f3",
@@ -7205,7 +6972,6 @@
     "finalizeTransactionHash": "0x9188e125480768ec57c080468d4d9028b0faf2c199543e03e8c558cd552ab9e8"
   },
   {
-    "_id": ObjectId("5cf8df93ebb168913df07485"),
     "taskid": "0x76cbcabe3a6554f8596c0eca988451f09f45979e1d8775a77dbe13ac0a08bc8d",
     "status": "3",
     "dealid": "0x267f0c801e78c7e6c1ecfdee6c7ff054df55bc46b532a7eb244b26f9c300c30b",
@@ -7236,7 +7002,6 @@
     "finalizeTransactionHash": "0x0e29bab733b16b6f4dbe952c35b4020b0023bb3f98dbc12db6b45a6bb629ed4b"
   },
   {
-    "_id": ObjectId("5cf8e20febb168913df07f1b"),
     "taskid": "0x00c64116f1763a6c41dcf64a6edb2a9c6b51fcbd42e57148100acccbac5ed520",
     "status": "3",
     "dealid": "0x2fa389f987d6ba411a0b0ac6e2d1d2bbaf2a7dd77582d0c6c2636ccf1d360512",
@@ -7267,7 +7032,6 @@
     "finalizeTransactionHash": "0xc32e943ddb7ceb6a26f0f83eddc18768848da9489e2dd2bdfd331c8a94f2b875"
   },
   {
-    "_id": ObjectId("5cf8e38bebb168913df0854d"),
     "taskid": "0x43ed1a9de4ff238fe06835766a19ee5fd7c174eae1225825e642061844b53d40",
     "status": "3",
     "dealid": "0x6d8f195815ce9a0288220f47b25debdbb170f1776965442fd084a8b9ef7e915c",
@@ -7298,7 +7062,6 @@
     "finalizeTransactionHash": "0xaf8449d0fa5b9c30568b6540780c1a71dffc16a90ffa9ab6e78118bbc676547b"
   },
   {
-    "_id": ObjectId("5cf8e523ebb168913df08b6d"),
     "taskid": "0x35350ec6e136990bb63cb585facd99e7ace6b7672ed13ef695a4517b1ec009eb",
     "status": "3",
     "dealid": "0x396a46eb3785054843ded133397ffc4f742cf00ceceeee770890e627f23dcac9",
@@ -7329,7 +7092,6 @@
     "finalizeTransactionHash": "0x5eb1fac2752f8c8e90d0fcd511c008a4014e7b4671138228790384dc7cbbe25a"
   },
   {
-    "_id": ObjectId("5cf8e67aebb168913df09095"),
     "taskid": "0xb412acd30a1c9ef66dee374b5adfbd2b1b4ced879eef32a21149545728dcbd49",
     "status": "3",
     "dealid": "0xdb2b7077ed2bd2b478bc925de72266939d4106145623c4b731592bd6b9e7c7f6",
@@ -7360,7 +7122,6 @@
     "finalizeTransactionHash": "0x7a3283aa1489fb89c1458459f32475edcf8c80b72cad198de06cd266f351eed4"
   },
   {
-    "_id": ObjectId("5cf8e7eeebb168913df0964a"),
     "taskid": "0x272d75e2754a49ecc971bfbe17ef4091d299e8ebadaf2bae61d66467bf8d6ac7",
     "status": "3",
     "dealid": "0xfe3a784c9f129f2399ddefe321e1deb22b6e439ed9c566295fff040af888e806",
@@ -7391,7 +7152,6 @@
     "finalizeTransactionHash": "0x5910080af7f1233e86e7d31d936de1fe033dc9551e80067a21694ba2bc92cd77"
   },
   {
-    "_id": ObjectId("5cf8e94cebb168913df09b82"),
     "taskid": "0x02b5172f8c6105eb9721fb71c04237ee04e890c8d70db5a9652a0842513c6c0b",
     "status": "3",
     "dealid": "0x8ef34d08ac22e6a32e589d5165a807e104505045ffeb7b76eb61ab4174881008",
@@ -7422,7 +7182,6 @@
     "finalizeTransactionHash": "0x500e175cecf26dbd27b4171033970dbfc15a582b11ebc14766487973e6ad405b"
   },
   {
-    "_id": ObjectId("5cf8eac7ebb168913df0a13d"),
     "taskid": "0x18d496bdf0a3d72ec7f77162fd2e05b3c38c7794114e12d7c46c2ae5b731474f",
     "status": "3",
     "dealid": "0xc77ebba304da14ef1c2a792f28293df5a79cd6edf76bd700fd21c1724b98515e",
@@ -7453,7 +7212,6 @@
     "finalizeTransactionHash": "0xcf13e5c09c4b5f8795f9853286270d51d11b6f83427dabdcab97f80a2a850346"
   },
   {
-    "_id": ObjectId("5cf8ec18ebb168913df0a69b"),
     "taskid": "0xe317a30fb699745761be3246c412e8dc0b362cef209ee6137d499fcbb281683a",
     "status": "3",
     "dealid": "0xfa21dd3b88dd5a2c220594fb35b50221cfb3216d8078dfe282b036b18eb8638e",
@@ -7484,7 +7242,6 @@
     "finalizeTransactionHash": "0xa367cc4006fed6a96626444703ce5e9d813d37b42e4d781c529ad49d8db6bb4d"
   },
   {
-    "_id": ObjectId("5cf8ed76ebb168913df0abc3"),
     "taskid": "0x14162fab3c9bac89eb16994ae903887832b74eec602b05dbef1f3f81a2b2aef3",
     "status": "3",
     "dealid": "0xc2360d98a30cb2437d03a558d22d7a11dfcf5ee573b7ab5b90b9e854fdcef121",
@@ -7515,7 +7272,6 @@
     "finalizeTransactionHash": "0xe3b998c4534612b75337e1c0e65c1021c6875707db7ec3948392f74d8036174c"
   },
   {
-    "_id": ObjectId("5cf8ef1bebb168913df0b1e1"),
     "taskid": "0x4c26de0836139087a97d807513c59d21b70b4c981c78f1d5c16b31a3727ee37b",
     "status": "3",
     "dealid": "0x03313b02fa4e15d6cc379698b3b255cef9d4f28d58a95f0def05023edce8a093",
@@ -7546,7 +7302,6 @@
     "finalizeTransactionHash": "0x5e01853e4cfffdc34e86a62f80cf272142a9216bc34177e15cec37aaeb90f9de"
   },
   {
-    "_id": ObjectId("5cf8f05febb168913df0b6d0"),
     "taskid": "0x817e996ebd6bc58c0ddaa156c22a996c995d861596e3fe71ededc7ba7ff77264",
     "status": "3",
     "dealid": "0x1067d268051d444d680dfc56938aea6ece9f53f3c95398862181778e55465e60",
@@ -7577,7 +7332,6 @@
     "finalizeTransactionHash": "0x61ec8ce3bdfb1d49dd955601397f9ae4dffcd94c0e61e4848383c2f8d1e62708"
   },
   {
-    "_id": ObjectId("5cf8f1b4ebb168913df0bbd1"),
     "taskid": "0x142de8fa52a632bfa690e7d4a5f65102c6f2ce43a071abce1800eb41192732f0",
     "status": "3",
     "dealid": "0x5ae056717983d311d2fa6f53d52db780b9af4b418490e58eaa501b55309a95b0",
@@ -7608,7 +7362,6 @@
     "finalizeTransactionHash": "0x9fff1ca9247fad9c08e10401e400cdca297832e19995578b7120254348041a37"
   },
   {
-    "_id": ObjectId("5cf8f33eebb168913df0c1db"),
     "taskid": "0x3b395b4f21744b2db01dec4bf4460aa3ad2005b9c01837d0f1fc829ba816efed",
     "status": "3",
     "dealid": "0xddb9725a957208cfd9ee8c305890cf999d93164fbda050272ff458460bc8fbf2",
@@ -7642,7 +7395,6 @@
     "finalizeTransactionHash": "0x9da39cbd204952bfdfc524c03c816dd15e63b38fa7d0c1db4d60c6680abccf04"
   },
   {
-    "_id": ObjectId("5cf8f4f7ebb168913df0c839"),
     "taskid": "0x903b05b408afb4c90ff07675e2d174fb874962a347e580e153e9a7f1bc900c88",
     "status": "3",
     "dealid": "0xa58a5183d337c4483928528687ebd2b05fb24b892ca8385f00832b90b8d87de8",
@@ -7673,7 +7425,6 @@
     "finalizeTransactionHash": "0x58cb7536e207b40b0d6efb88ac612e7a3189d067e0e8940035e3743e457a57ef"
   },
   {
-    "_id": ObjectId("5cf8f633ebb168913df0ccef"),
     "taskid": "0xe801d69d7077cb87d44afd757198b1f3a0fc6a9029ccbadb912e19b9f3d593c8",
     "status": "3",
     "dealid": "0x43912ffc956c6b950a2e64ec39aa9de30c17070163da7deb29a3a41a33f193d8",
@@ -7704,7 +7455,6 @@
     "finalizeTransactionHash": "0xafa0e02dd1e6245d3ac071e944240d9a086e4acf97e09ce2d8ab061107097fb1"
   },
   {
-    "_id": ObjectId("5cf8f793ebb168913df0d2fc"),
     "taskid": "0x0f893355ca1013317dd7541ffe7934704aca55a7ce659ae347cf00c3d2029439",
     "status": "3",
     "dealid": "0x32791313606700218b236b179eb912b4331aff509352c599cd518becebd0cf24",
@@ -7735,7 +7485,6 @@
     "finalizeTransactionHash": "0x3eaa77b22c895428d27df0feec077fcae5bdb570ccf0650f9b4af0a975c579fe"
   },
   {
-    "_id": ObjectId("5cf8fd42ebb168913df0e9bf"),
     "taskid": "0x9e841ba8b727137038d3a8ee33caf36967a175582b155802a1b35706d80975bd",
     "status": "1",
     "dealid": "0x4deb0c521910540cfd85e7e92a258153595dadf62363bacfaca6615afe22e27f",
@@ -7760,7 +7509,6 @@
     "blockTimestamp": "2019-06-06T11:47:01.000Z"
   },
   {
-    "_id": ObjectId("5cf8fe01ebb168913df0eca9"),
     "taskid": "0x6730e71b33e10ff7eadf50fb005e90e0e9599b3a11230bca97080e62e2691ad2",
     "status": "1",
     "dealid": "0x67dc71db74d15555acf4463f6bf1389d5328ca8ba8ffe45bf53651a0c273b6f5",
@@ -7785,7 +7533,6 @@
     "blockTimestamp": "2019-06-06T11:50:16.000Z"
   },
   {
-    "_id": ObjectId("5cf8fe01ebb168913df0ecac"),
     "taskid": "0xb00a38276aed6b29fb0e9017f46ed9e24e803b64b3646820a96d20400e9cebc8",
     "status": "1",
     "dealid": "0x43f1825e30f99199b90ce299b51c5c5466db988c3dcec2d31ca5be71165a10ce",
@@ -7810,7 +7557,6 @@
     "blockTimestamp": "2019-06-06T11:50:16.000Z"
   },
   {
-    "_id": ObjectId("5cf8fe06ebb168913df0ecd5"),
     "taskid": "0xda867bb7a73458baae0fdeae9a161d4208525ee96d6e33b44ebfbc23da994ac3",
     "status": "3",
     "dealid": "0x5071d731a94459bf03c8c4be8584ea8c4ec3d476919d9b2b4a98093cd6fb6125",
@@ -7841,7 +7587,6 @@
     "finalizeTransactionHash": "0x2613c03b6a7c22cb805679d42d4f92b01c7a6390fb6f0c2c0e72e307fd7ba2c9"
   },
   {
-    "_id": ObjectId("5cf8fe19ebb168913df0ed20"),
     "taskid": "0xaed64bfaefb20456401222d9907165205dcbc4c2d2bbb15ae7d7ddbc39ad5df1",
     "status": "3",
     "dealid": "0x2804e4527af1c60805a2bbaf9ddf54a5992979160b7a511cdda81c3b3bb5d9c9",
@@ -7872,7 +7617,6 @@
     "finalizeTransactionHash": "0x15246a83c1a04604f4a72b5b4fa23d8be57e671ea538744ca4fcde296b757560"
   },
   {
-    "_id": ObjectId("5cf8fe35ebb168913df0ed91"),
     "taskid": "0x9a087602d0fb0400229456ea723d1d90958bf0292c0205387211e4319c735cd0",
     "status": "2",
     "dealid": "0xeda7063ba1a3870f7befc92899bc9c5198977ea42707622ef5ef184497dacc4b",
@@ -7900,7 +7644,6 @@
     "consensusTransactionHash": "0xcb5f02c0860b8fcbe15eefba143186bc6447d1d4769416d6ec5e3c50d15026ac"
   },
   {
-    "_id": ObjectId("5cf8fe85ebb168913df0eed9"),
     "taskid": "0x7ed9f329516d5880709885b7dd229325572aefea521b92bd0e41d7fee213db3c",
     "status": "3",
     "dealid": "0x901362a70df0b6a8215c37c38f8791911efbfa288470b44b2862f61bac73c975",
@@ -7931,7 +7674,6 @@
     "finalizeTransactionHash": "0x6696f7f135c5b3983e9607fe67b724ed59069d776745024cf415e5f727c0e0ec"
   },
   {
-    "_id": ObjectId("5cf900a9ebb168913df0f765"),
     "taskid": "0x901aad53582c9047795407f4b8780179f106ef7b77c53919c35af8018dc73621",
     "status": "3",
     "dealid": "0x3b15c0993490d3e87ac10c5ba7f7eac228d053a23982b2b768edcf62fe1f9ca3",
@@ -7962,7 +7704,6 @@
     "finalizeTransactionHash": "0x90f1938e07e22cad729bb13d35a94e69698456b764adfe6ebeb9650131e61950"
   },
   {
-    "_id": ObjectId("5cf90169ebb168913df0fa63"),
     "taskid": "0x2936f202ead50f381cd00dc99024f623d06641ee94215c84b3dc6f34aa2e4be6",
     "status": "3",
     "dealid": "0xe7bdab654d6e534478cfa843195fc331d82d96f1b9da117b551ec6e6d1c7bfbf",
@@ -7993,7 +7734,6 @@
     "finalizeTransactionHash": "0x831ac8bb992c7250df63a204b37eadd7c21cb8464161a37f0b522db8396d07dd"
   },
   {
-    "_id": ObjectId("5cf902bbebb168913df0ff4f"),
     "taskid": "0x5e1f6713d952e7e96e76ea109a151e23c561dfc2497bcb88e394e3106caefa32",
     "status": "3",
     "dealid": "0xe16b6302b4a2568033d0c433565565f5f34464ebe0013b82874af88ba4c1ccb7",
@@ -8024,7 +7764,6 @@
     "finalizeTransactionHash": "0xcfcb35affc38b01118bf02ed214bdd6974c1bed7d49bf7ec070c9b0bde8623dc"
   },
   {
-    "_id": ObjectId("5cf9044bebb168913df1051d"),
     "taskid": "0x6ca0137c8aa8320967107da658722747b1a32f108fe79853cb80345bf2cdc405",
     "status": "3",
     "dealid": "0x7575513bc887f8a73d8205ea460f2cc760e4b31c453fe9695159c92ad9f67ca0",
@@ -8055,7 +7794,6 @@
     "finalizeTransactionHash": "0x320539fa6e91bdce81490b5f8f24a7645ee916dadbbd71a96e70fb216a216469"
   },
   {
-    "_id": ObjectId("5cf905c3ebb168913df10af2"),
     "taskid": "0xa71a80500f0497964b738caa9c4ee01a22b85dc7f5d089914499c0ba0e38e1f5",
     "status": "3",
     "dealid": "0x333674d7272c25f9e046c6dec7c9be6f90f0e9376b9df7dbc8548d2ac86466e9",
@@ -8086,7 +7824,6 @@
     "finalizeTransactionHash": "0xd5309bc05767c86cb6972812322e3fd4f93f208188e0f449709203d7c6ca1676"
   },
   {
-    "_id": ObjectId("5cf90751ebb168913df110fc"),
     "taskid": "0x19d14ca3eb36b3b9aacd18d277a7dc733a1bcc34c7cd962016967b6c0419a0c9",
     "status": "3",
     "dealid": "0x881c323be819e63472bb6703acbf69b34febecd1c268222462086dc7426c9e6f",
@@ -8117,7 +7854,6 @@
     "finalizeTransactionHash": "0xd0437db09d8d05652b6edc8c6305d61506ad69d1c4c71755c5c1a04f210834e2"
   },
   {
-    "_id": ObjectId("5cf908d1ebb168913df1175c"),
     "taskid": "0x640da2dbcf95b6d574eea7b4a8d22b0dd11fdb8f6d27bfa8671459ecce848152",
     "status": "3",
     "dealid": "0x31387c6c7106843696ac3614af29d0899ba53c1de94c2f7a7abfc08f7ac9ec31",
@@ -8148,7 +7884,6 @@
     "finalizeTransactionHash": "0x05b04028a01382239209b781ac9b5cbf359c3e2f74edc4c33ce1defae80ade1c"
   },
   {
-    "_id": ObjectId("5cf90a15ebb168913df11c0b"),
     "taskid": "0x2a44ea1091e4cbb29f53815f28f657ff55a012f85738a1838f35b972b087d669",
     "status": "3",
     "dealid": "0x54ddf86c58ae6c92afd891e7fce7bc9607a25fc88548475748ad6199dbd0aea5",
@@ -8179,7 +7914,6 @@
     "finalizeTransactionHash": "0xe583d276e0ca97d69cd7bb710288f4e9f2f73bdc704c1d14c5e2dda0ba87c8c9"
   },
   {
-    "_id": ObjectId("5cf90ba6ebb168913df12235"),
     "taskid": "0xc4a33d96406e3dcc7220698cf48153054b18d6b7f052c1c10ffdbc100e1bf0ea",
     "status": "3",
     "dealid": "0x337e2aeabcb7f2388e27904ab259df8ab048798e24afdb6193d27ccedf3bfeef",
@@ -8210,7 +7944,6 @@
     "finalizeTransactionHash": "0x22e0fb2961c90d14e45448e6345a602d20ddda2a78f3c553eebcc6ef8ccb11b0"
   },
   {
-    "_id": ObjectId("5cf90ce5ebb168913df12749"),
     "taskid": "0x9082f2cad1b8665bea8f2ee646975a1d299379a2a393bf0eccd9d02262c92e58",
     "status": "3",
     "dealid": "0xaddf48ec2485bbfbb21cc6073ad896973aab64ba6d5adcfc04f0f684ffd7aca2",
@@ -8241,7 +7974,6 @@
     "finalizeTransactionHash": "0xe575048aeda774d63dbfc22374fc3161571423b0a3fa1e4b3b14eb977462442e"
   },
   {
-    "_id": ObjectId("5cf90e66ebb168913df12cd7"),
     "taskid": "0x1e792d032b8688602dbc4a71abca7416209173f0994312774daa987f3d18793d",
     "status": "3",
     "dealid": "0x7e81f003a160d2125c5d4f3a4bebc2558940961be476be97334cba0e5f8b9523",
@@ -8272,7 +8004,6 @@
     "finalizeTransactionHash": "0x0cfdfaef26bdbc0998f8c19040c061f02d61327d8ff878a8e8cedfcadffa08f0"
   },
   {
-    "_id": ObjectId("5cf91028ebb168913df1339e"),
     "taskid": "0x192902a50e2af00b3631e8c58cb9162c64294b4330e18b75b531d91b56988ef0",
     "status": "3",
     "dealid": "0xf3e67469208773fdc314b695401053cfe73fbf8f4402b39778d078a9c996660f",
